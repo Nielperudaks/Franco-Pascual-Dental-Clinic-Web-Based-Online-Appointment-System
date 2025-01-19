@@ -1,0 +1,18 @@
+[21-Nov-2024 10:53:24 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Admin-Section/connection.php:6
+Stack trace:
+#0 /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Admin-Section/connection.php(6): mysqli->__construct()
+#1 /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Admin-Section/_branches.php(4): require('/home/rm2bgfu7h...')
+#2 {main}
+  thrown in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Admin-Section/connection.php on line 6
+[27-Nov-2024 16:36:05 UTC] PHP Warning:  Undefined array key "userID" in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Admin-Section/_secretary.php on line 18
+[27-Nov-2024 16:36:06 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Admin-Section/_secretary.php:19
+Stack trace:
+#0 /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Admin-Section/_secretary.php(19): mysqli->query()
+#1 {main}
+  thrown in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Admin-Section/_secretary.php on line 19
+[27-Nov-2024 16:36:32 UTC] PHP Warning:  Undefined array key "userID" in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Admin-Section/_secretary.php on line 18
+[27-Nov-2024 16:36:32 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Admin-Section/_secretary.php:19
+Stack trace:
+#0 /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Admin-Section/_secretary.php(19): mysqli->query()
+#1 {main}
+  thrown in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Admin-Section/_secretary.php on line 19

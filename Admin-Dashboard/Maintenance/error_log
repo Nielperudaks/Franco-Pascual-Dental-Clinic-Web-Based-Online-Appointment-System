@@ -1,0 +1,390 @@
+[20-Nov-2024 19:30:34 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'capstone_db.tbl_Services' doesn't exist in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php:1260
+Stack trace:
+#0 /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php(1260): mysqli->query()
+#1 {main}
+  thrown in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php on line 1260
+[20-Nov-2024 19:30:58 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'capstone_db.tbl_Services' doesn't exist in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php:1260
+Stack trace:
+#0 /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php(1260): mysqli->query()
+#1 {main}
+  thrown in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php on line 1260
+[20-Nov-2024 22:09:52 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'capstone_db.tbl_Services' doesn't exist in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php:1260
+Stack trace:
+#0 /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php(1260): mysqli->query()
+#1 {main}
+  thrown in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php on line 1260
+[20-Nov-2024 22:16:29 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'capstone_db.tbl_Services' doesn't exist in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php:1260
+Stack trace:
+#0 /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php(1260): mysqli->query()
+#1 {main}
+  thrown in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php on line 1260
+[20-Nov-2024 22:17:21 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'capstone_db.tbl_Services' doesn't exist in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php:1260
+Stack trace:
+#0 /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php(1260): mysqli->query()
+#1 {main}
+  thrown in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php on line 1260
+[20-Nov-2024 22:20:17 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'capstone_db.tbl_Services' doesn't exist in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php:1260
+Stack trace:
+#0 /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php(1260): mysqli->query()
+#1 {main}
+  thrown in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php on line 1260
+[20-Nov-2024 22:24:12 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'capstone_db.tbl_Services' doesn't exist in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php:1260
+Stack trace:
+#0 /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php(1260): mysqli->query()
+#1 {main}
+  thrown in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php on line 1260
+[20-Nov-2024 22:33:24 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'capstone_db.tbl_Services' doesn't exist in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php:1260
+Stack trace:
+#0 /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php(1260): mysqli->query()
+#1 {main}
+  thrown in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php on line 1260
+[20-Nov-2024 22:35:22 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'capstone_db.tbl_Services' doesn't exist in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php:1260
+Stack trace:
+#0 /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php(1260): mysqli->query()
+#1 {main}
+  thrown in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php on line 1260
+[20-Nov-2024 22:47:34 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'capstone_db.tbl_Services' doesn't exist in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php:1260
+Stack trace:
+#0 /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php(1260): mysqli->query()
+#1 {main}
+  thrown in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php on line 1260
+[20-Nov-2024 22:51:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'capstone_db.tbl_Services' doesn't exist in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php:1260
+Stack trace:
+#0 /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php(1260): mysqli->query()
+#1 {main}
+  thrown in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php on line 1260
+[20-Nov-2024 22:58:41 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'capstone_db.tbl_Services' doesn't exist in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php:1260
+Stack trace:
+#0 /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php(1260): mysqli->query()
+#1 {main}
+  thrown in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php on line 1260
+[20-Nov-2024 22:58:47 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'capstone_db.tbl_Services' doesn't exist in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php:1260
+Stack trace:
+#0 /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php(1260): mysqli->query()
+#1 {main}
+  thrown in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php on line 1260
+[20-Nov-2024 23:02:08 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'capstone_db.tbl_Services' doesn't exist in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php:1260
+Stack trace:
+#0 /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php(1260): mysqli->query()
+#1 {main}
+  thrown in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php on line 1260
+[20-Nov-2024 23:05:12 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'capstone_db.tbl_Services' doesn't exist in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php:1288
+Stack trace:
+#0 /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php(1288): mysqli->query()
+#1 {main}
+  thrown in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php on line 1288
+[20-Nov-2024 23:05:56 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable or "${" or "{$" in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php on line 1160
+[20-Nov-2024 23:06:58 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'capstone_db.tbl_Services' doesn't exist in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php:1295
+Stack trace:
+#0 /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php(1295): mysqli->query()
+#1 {main}
+  thrown in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php on line 1295
+[20-Nov-2024 23:07:03 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/connection.php:6
+Stack trace:
+#0 /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/connection.php(6): mysqli->__construct()
+#1 /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/fetch-doctor-details.php(2): require('/home/rm2bgfu7h...')
+#2 {main}
+  thrown in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/connection.php on line 6
+[20-Nov-2024 23:07:50 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'capstone_db.tbl_Services' doesn't exist in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php:1295
+Stack trace:
+#0 /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php(1295): mysqli->query()
+#1 {main}
+  thrown in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php on line 1295
+[20-Nov-2024 23:08:54 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'capstone_db.tbl_Services' doesn't exist in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php:1295
+Stack trace:
+#0 /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php(1295): mysqli->query()
+#1 {main}
+  thrown in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php on line 1295
+[20-Nov-2024 23:10:49 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'capstone_db.tbl_Services' doesn't exist in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php:1295
+Stack trace:
+#0 /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php(1295): mysqli->query()
+#1 {main}
+  thrown in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php on line 1295
+[20-Nov-2024 23:15:37 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'capstone_db.tbl_Services' doesn't exist in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php:1280
+Stack trace:
+#0 /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php(1280): mysqli->query()
+#1 {main}
+  thrown in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php on line 1280
+[20-Nov-2024 23:19:21 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'capstone_db.tbl_Services' doesn't exist in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php:1281
+Stack trace:
+#0 /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php(1281): mysqli->query()
+#1 {main}
+  thrown in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php on line 1281
+[20-Nov-2024 23:19:52 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'capstone_db.tbl_Services' doesn't exist in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php:1281
+Stack trace:
+#0 /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php(1281): mysqli->query()
+#1 {main}
+  thrown in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php on line 1281
+[20-Nov-2024 23:25:46 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'capstone_db.tbl_Services' doesn't exist in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php:1284
+Stack trace:
+#0 /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php(1284): mysqli->query()
+#1 {main}
+  thrown in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php on line 1284
+[20-Nov-2024 23:26:04 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'capstone_db.tbl_Services' doesn't exist in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php:1284
+Stack trace:
+#0 /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php(1284): mysqli->query()
+#1 {main}
+  thrown in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php on line 1284
+[20-Nov-2024 23:26:29 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'capstone_db.tbl_Services' doesn't exist in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php:1284
+Stack trace:
+#0 /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php(1284): mysqli->query()
+#1 {main}
+  thrown in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php on line 1284
+[21-Nov-2024 00:17:00 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'capstone_db.tbl_Services' doesn't exist in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php:1284
+Stack trace:
+#0 /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php(1284): mysqli->query()
+#1 {main}
+  thrown in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php on line 1284
+[21-Nov-2024 00:18:51 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'capstone_db.tbl_Services' doesn't exist in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php:1282
+Stack trace:
+#0 /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php(1282): mysqli->query()
+#1 {main}
+  thrown in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php on line 1282
+[21-Nov-2024 00:22:05 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'capstone_db.tbl_Services' doesn't exist in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php:1284
+Stack trace:
+#0 /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php(1284): mysqli->query()
+#1 {main}
+  thrown in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php on line 1284
+[21-Nov-2024 00:27:52 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'capstone_db.tbl_Services' doesn't exist in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php:1289
+Stack trace:
+#0 /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php(1289): mysqli->query()
+#1 {main}
+  thrown in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php on line 1289
+[21-Nov-2024 00:31:07 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'capstone_db.tbl_Services' doesn't exist in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php:1289
+Stack trace:
+#0 /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php(1289): mysqli->query()
+#1 {main}
+  thrown in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php on line 1289
+[21-Nov-2024 00:33:08 UTC] PHP Warning:  require(/home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenanceconnection.php): Failed to open stream: No such file or directory in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php on line 1286
+[21-Nov-2024 00:33:08 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenanceconnection.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php:1286
+Stack trace:
+#0 {main}
+  thrown in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php on line 1286
+[21-Nov-2024 00:35:41 UTC] PHP Warning:  require(/home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenanceconnection.php): Failed to open stream: No such file or directory in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php on line 1286
+[21-Nov-2024 00:35:41 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenanceconnection.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php:1286
+Stack trace:
+#0 {main}
+  thrown in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php on line 1286
+[21-Nov-2024 00:41:05 UTC] PHP Warning:  require(/home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenanceconnection.php): Failed to open stream: No such file or directory in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php on line 1287
+[21-Nov-2024 00:41:05 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenanceconnection.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php:1287
+Stack trace:
+#0 {main}
+  thrown in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php on line 1287
+[21-Nov-2024 00:42:53 UTC] PHP Warning:  require(/home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenanceconnection.php): Failed to open stream: No such file or directory in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php on line 1286
+[21-Nov-2024 00:42:53 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenanceconnection.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php:1286
+Stack trace:
+#0 {main}
+  thrown in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php on line 1286
+[21-Nov-2024 00:43:58 UTC] PHP Warning:  require(/home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenanceconnection.php): Failed to open stream: No such file or directory in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php on line 1286
+[21-Nov-2024 00:43:58 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenanceconnection.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php:1286
+Stack trace:
+#0 {main}
+  thrown in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php on line 1286
+[21-Nov-2024 00:44:54 UTC] PHP Warning:  require(/home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenanceconnection.php): Failed to open stream: No such file or directory in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php on line 1286
+[21-Nov-2024 00:44:54 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenanceconnection.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php:1286
+Stack trace:
+#0 {main}
+  thrown in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php on line 1286
+[21-Nov-2024 00:45:57 UTC] PHP Warning:  require(/home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenanceconnection.php): Failed to open stream: No such file or directory in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php on line 4
+[21-Nov-2024 00:45:57 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenanceconnection.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php on line 4
+[21-Nov-2024 00:45:59 UTC] PHP Warning:  require(/home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenanceconnection.php): Failed to open stream: No such file or directory in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php on line 4
+[21-Nov-2024 00:45:59 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenanceconnection.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php on line 4
+[21-Nov-2024 00:46:41 UTC] PHP Warning:  require(/home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenanceconnection.php): Failed to open stream: No such file or directory in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php on line 1286
+[21-Nov-2024 00:46:41 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenanceconnection.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php:1286
+Stack trace:
+#0 {main}
+  thrown in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php on line 1286
+[21-Nov-2024 00:49:00 UTC] PHP Warning:  require(/home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenanceconnection.php): Failed to open stream: No such file or directory in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php on line 1286
+[21-Nov-2024 00:49:00 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenanceconnection.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php:1286
+Stack trace:
+#0 {main}
+  thrown in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php on line 1286
+[21-Nov-2024 00:49:43 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'capstone_db.tbl_Services' doesn't exist in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php:1260
+Stack trace:
+#0 /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php(1260): mysqli->query()
+#1 {main}
+  thrown in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php on line 1260
+[21-Nov-2024 00:50:34 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'capstone_db.tbl_Services' doesn't exist in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php:1260
+Stack trace:
+#0 /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php(1260): mysqli->query()
+#1 {main}
+  thrown in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php on line 1260
+[21-Nov-2024 00:51:02 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'capstone_db.tbl_Services' doesn't exist in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php:1260
+Stack trace:
+#0 /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php(1260): mysqli->query()
+#1 {main}
+  thrown in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php on line 1260
+[21-Nov-2024 00:51:12 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'capstone_db.tbl_Services' doesn't exist in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php:1292
+Stack trace:
+#0 /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php(1292): mysqli->query()
+#1 {main}
+  thrown in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php on line 1292
+[21-Nov-2024 01:05:03 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable or "${" or "{$" in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php on line 1161
+[21-Nov-2024 01:05:08 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable or "${" or "{$" in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php on line 1161
+[21-Nov-2024 01:05:09 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable or "${" or "{$" in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php on line 1161
+[21-Nov-2024 01:20:28 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'capstone_db.tbl_Services' doesn't exist in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php:1290
+Stack trace:
+#0 /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php(1290): mysqli->query()
+#1 {main}
+  thrown in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php on line 1290
+[21-Nov-2024 01:22:14 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'capstone_db.tbl_Services' doesn't exist in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php:1398
+Stack trace:
+#0 /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php(1398): mysqli->query()
+#1 {main}
+  thrown in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php on line 1398
+[21-Nov-2024 01:22:24 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'capstone_db.tbl_Services' doesn't exist in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php:1418
+Stack trace:
+#0 /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php(1418): mysqli->query()
+#1 {main}
+  thrown in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php on line 1418
+[21-Nov-2024 01:27:47 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'capstone_db.tbl_Services' doesn't exist in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php:1426
+Stack trace:
+#0 /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php(1426): mysqli->query()
+#1 {main}
+  thrown in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php on line 1426
+[21-Nov-2024 01:28:02 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'capstone_db.tbl_Services' doesn't exist in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php:1426
+Stack trace:
+#0 /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php(1426): mysqli->query()
+#1 {main}
+  thrown in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php on line 1426
+[21-Nov-2024 01:33:15 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'capstone_db.tbl_Services' doesn't exist in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php:1426
+Stack trace:
+#0 /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php(1426): mysqli->query()
+#1 {main}
+  thrown in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php on line 1426
+[21-Nov-2024 01:34:05 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'capstone_db.tbl_Services' doesn't exist in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php:1426
+Stack trace:
+#0 /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php(1426): mysqli->query()
+#1 {main}
+  thrown in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php on line 1426
+[21-Nov-2024 01:35:42 UTC] PHP Warning:  Undefined variable $connectionPath in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php on line 1319
+[21-Nov-2024 01:35:42 UTC] PHP Deprecated:  file_exists(): Passing null to parameter #1 ($filename) of type string is deprecated in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php on line 1319
+[21-Nov-2024 01:35:42 UTC] PHP Warning:  Undefined variable $connectionPath in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php on line 1320
+[21-Nov-2024 01:35:42 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'capstone_db.tbl_Services' doesn't exist in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php:1426
+Stack trace:
+#0 /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php(1426): mysqli->query()
+#1 {main}
+  thrown in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php on line 1426
+[21-Nov-2024 01:36:16 UTC] PHP Warning:  Undefined variable $connectionPath in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php on line 1319
+[21-Nov-2024 01:36:16 UTC] PHP Deprecated:  file_exists(): Passing null to parameter #1 ($filename) of type string is deprecated in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php on line 1319
+[21-Nov-2024 01:36:16 UTC] PHP Warning:  Undefined variable $connectionPath in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php on line 1320
+[21-Nov-2024 01:36:16 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'capstone_db.tbl_Services' doesn't exist in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php:1426
+Stack trace:
+#0 /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php(1426): mysqli->query()
+#1 {main}
+  thrown in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php on line 1426
+[21-Nov-2024 01:38:15 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'capstone_db.tbl_Services' doesn't exist in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php:1426
+Stack trace:
+#0 /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php(1426): mysqli->query()
+#1 {main}
+  thrown in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php on line 1426
+[21-Nov-2024 01:38:56 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'capstone_db.tbl_Services' doesn't exist in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php:1426
+Stack trace:
+#0 /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php(1426): mysqli->query()
+#1 {main}
+  thrown in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php on line 1426
+[25-Nov-2024 11:49:19 UTC] PHP Warning:  Undefined array key "userID" in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php on line 4
+[25-Nov-2024 11:49:19 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php:5
+Stack trace:
+#0 /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php(5): mysqli->query()
+#1 {main}
+  thrown in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php on line 5
+[25-Nov-2024 12:43:10 UTC] PHP Warning:  Undefined array key "userID" in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php on line 4
+[25-Nov-2024 12:43:10 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php:5
+Stack trace:
+#0 /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php(5): mysqli->query()
+#1 {main}
+  thrown in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php on line 5
+[25-Nov-2024 12:43:13 UTC] PHP Warning:  Undefined array key "userID" in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php on line 4
+[25-Nov-2024 12:43:13 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php:5
+Stack trace:
+#0 /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php(5): mysqli->query()
+#1 {main}
+  thrown in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php on line 5
+[25-Nov-2024 12:43:55 UTC] PHP Warning:  Undefined array key "userID" in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php on line 4
+[25-Nov-2024 12:43:55 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php:5
+Stack trace:
+#0 /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php(5): mysqli->query()
+#1 {main}
+  thrown in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php on line 5
+[25-Nov-2024 12:43:59 UTC] PHP Warning:  Undefined array key "userID" in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php on line 4
+[25-Nov-2024 12:43:59 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php:5
+Stack trace:
+#0 /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php(5): mysqli->query()
+#1 {main}
+  thrown in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php on line 5
+[25-Nov-2024 14:05:35 UTC] PHP Warning:  Undefined array key "userID" in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php on line 4
+[25-Nov-2024 14:05:35 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php:5
+Stack trace:
+#0 /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php(5): mysqli->query()
+#1 {main}
+  thrown in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php on line 5
+[25-Nov-2024 14:05:44 UTC] PHP Warning:  Undefined array key "userID" in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php on line 4
+[25-Nov-2024 14:05:44 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php:5
+Stack trace:
+#0 /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php(5): mysqli->query()
+#1 {main}
+  thrown in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php on line 5
+[25-Nov-2024 15:10:48 UTC] PHP Warning:  Undefined array key "userID" in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php on line 4
+[25-Nov-2024 15:10:48 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php:5
+Stack trace:
+#0 /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php(5): mysqli->query()
+#1 {main}
+  thrown in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php on line 5
+[25-Nov-2024 15:10:49 UTC] PHP Warning:  Undefined array key "userID" in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php on line 4
+[25-Nov-2024 15:10:49 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php:5
+Stack trace:
+#0 /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php(5): mysqli->query()
+#1 {main}
+  thrown in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php on line 5
+[25-Nov-2024 15:12:42 UTC] PHP Warning:  Undefined array key "userID" in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php on line 4
+[25-Nov-2024 15:12:42 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php:5
+Stack trace:
+#0 /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php(5): mysqli->query()
+#1 {main}
+  thrown in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php on line 5
+[25-Nov-2024 15:12:43 UTC] PHP Warning:  Undefined array key "userID" in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php on line 4
+[25-Nov-2024 15:12:43 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php:5
+Stack trace:
+#0 /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php(5): mysqli->query()
+#1 {main}
+  thrown in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php on line 5
+[25-Nov-2024 15:12:44 UTC] PHP Warning:  Undefined array key "userID" in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php on line 4
+[25-Nov-2024 15:12:44 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php:5
+Stack trace:
+#0 /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php(5): mysqli->query()
+#1 {main}
+  thrown in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php on line 5
+[25-Nov-2024 15:12:45 UTC] PHP Warning:  Undefined array key "userID" in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php on line 4
+[25-Nov-2024 15:12:45 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php:5
+Stack trace:
+#0 /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php(5): mysqli->query()
+#1 {main}
+  thrown in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php on line 5
+[25-Nov-2024 16:29:19 UTC] PHP Warning:  Undefined array key "userID" in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php on line 4
+[25-Nov-2024 16:29:19 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php:5
+Stack trace:
+#0 /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php(5): mysqli->query()
+#1 {main}
+  thrown in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/maintenance.php on line 5
+[27-Nov-2024 15:30:13 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of variables must match the number of parameters in the prepared statement in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/process-edit-doctor.php:34
+Stack trace:
+#0 /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/process-edit-doctor.php(34): mysqli_stmt->bind_param()
+#1 {main}
+  thrown in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/process-edit-doctor.php on line 34
+[27-Nov-2024 15:56:30 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/process-edit-service.php:12
+Stack trace:
+#0 /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/process-edit-service.php(12): mysqli_stmt->bind_param()
+#1 {main}
+  thrown in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/process-edit-service.php on line 12
+[27-Nov-2024 15:56:41 UTC] PHP Warning:  Undefined variable $stmt in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/process-edit-service.php on line 28
+[27-Nov-2024 15:56:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/process-edit-service.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Maintenance/process-edit-service.php on line 28

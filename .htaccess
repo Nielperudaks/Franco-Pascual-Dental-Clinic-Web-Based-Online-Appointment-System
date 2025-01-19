@@ -1,0 +1,53 @@
+# Enable mod_rewrite
+RewriteEngine On
+
+# Set RewriteBase if the .htaccess is in the root
+RewriteBase /
+
+# Hide .php extension for user-friendly URLs in each folder
+
+# Admin-Dashboard folder
+RewriteCond %{REQUEST_URI} ^/Admin-Dashboard/
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^Admin-Dashboard/([a-zA-Z0-9-_/]+)$ /Admin-Dashboard/$1.php [L,QSA]
+
+# Client-Dashboard folder
+RewriteCond %{REQUEST_URI} ^/Client-Dashboard/
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^Client-Dashboard/([a-zA-Z0-9-_/]+)$ /Client-Dashboard/$1.php [L,QSA]
+
+# Patient_Login folder
+RewriteCond %{REQUEST_URI} ^/Patient_Login/
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^Patient_Login/([a-zA-Z0-9-_/]+)$ /Patient_Login/$1.php [L,QSA]
+
+# Landing-Page folder
+RewriteCond %{REQUEST_URI} ^/Landing-Page/
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^Landing-Page/([a-zA-Z0-9-_/]+)$ /Landing-Page/$1.php [L,QSA]
+
+# Login-Registration folder
+RewriteCond %{REQUEST_URI} ^/Login-Registration/
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^Login-Registration/([a-zA-Z0-9-_/]+)$ /Login-Registration/$1.php [L,QSA]
+
+# General case for other folders (components, res, etc.)
+RewriteCond %{REQUEST_URI} ^/(components|css|scripts|vendor)/ 
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^([a-zA-Z0-9-_/]+)$ $1.php [L,QSA]
+
+# Ensure .php files are processed properly
+RewriteCond %{REQUEST_FILENAME} -f
+RewriteRule ^(.*)$ $1 [L]
+
+# Preserve AJAX calls (do not rewrite these)
+RewriteCond %{HTTP:X-Requested-With} !^XMLHttpRequest$
+RewriteRule ^.*$ - [L]
+
+ErrorDocument 404 /404.php

@@ -1,0 +1,15 @@
+{
+  "name": "try",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test spcified\" && exit 1",
+    "dev": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.21.1",
+    "node-schedule": "^2.1.1",
+    "resend": "^4.0.1"
+  }
+}

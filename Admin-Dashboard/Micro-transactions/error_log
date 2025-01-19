@@ -1,0 +1,375 @@
+[20-Nov-2024 19:11:03 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/connection.php:6
+Stack trace:
+#0 /home/rm2bgfu7h06d/public_html/Admin-Dashboard/connection.php(6): mysqli->__construct()
+#1 /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/Microtransactions.php(4): require('/home/rm2bgfu7h...')
+#2 {main}
+  thrown in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/connection.php on line 6
+[20-Nov-2024 19:11:15 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/connection.php:6
+Stack trace:
+#0 /home/rm2bgfu7h06d/public_html/Admin-Dashboard/connection.php(6): mysqli->__construct()
+#1 /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/Microtransactions.php(4): require('/home/rm2bgfu7h...')
+#2 {main}
+  thrown in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/connection.php on line 6
+[20-Nov-2024 19:12:01 UTC] PHP Warning:  require(/home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions): Failed to open stream: No such file or directory in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/Microtransactions.php on line 4
+[20-Nov-2024 19:12:01 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/Microtransactions.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/Microtransactions.php on line 4
+[20-Nov-2024 19:12:37 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/connection.php:6
+Stack trace:
+#0 /home/rm2bgfu7h06d/public_html/Admin-Dashboard/connection.php(6): mysqli->__construct()
+#1 /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/process-payment.php(2): require('/home/rm2bgfu7h...')
+#2 {main}
+  thrown in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/connection.php on line 6
+[20-Nov-2024 19:12:37 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/connection.php:6
+Stack trace:
+#0 /home/rm2bgfu7h06d/public_html/Admin-Dashboard/connection.php(6): mysqli->__construct()
+#1 /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/process-payment.php(2): require('/home/rm2bgfu7h...')
+#2 {main}
+  thrown in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/connection.php on line 6
+[20-Nov-2024 19:13:42 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/connection.php:6
+Stack trace:
+#0 /home/rm2bgfu7h06d/public_html/Admin-Dashboard/connection.php(6): mysqli->__construct()
+#1 /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/process-payment.php(2): require('/home/rm2bgfu7h...')
+#2 {main}
+  thrown in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/connection.php on line 6
+[20-Nov-2024 19:13:42 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/connection.php:6
+Stack trace:
+#0 /home/rm2bgfu7h06d/public_html/Admin-Dashboard/connection.php(6): mysqli->__construct()
+#1 /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/process-payment.php(2): require('/home/rm2bgfu7h...')
+#2 {main}
+  thrown in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/connection.php on line 6
+[20-Nov-2024 19:16:56 UTC] Webhook Response: 
+[20-Nov-2024 19:16:56 UTC] Webhook Response: 
+[20-Nov-2024 19:17:28 UTC] Webhook Response: 
+[20-Nov-2024 19:17:28 UTC] Webhook Response: 
+[20-Nov-2024 19:17:33 UTC] Webhook Response: 
+[20-Nov-2024 19:17:33 UTC] Webhook Response: 
+[20-Nov-2024 19:27:13 UTC] Webhook Response: 
+[20-Nov-2024 19:27:13 UTC] Webhook Response: 
+[20-Nov-2024 19:29:41 UTC] Webhook Response: 
+[20-Nov-2024 19:29:41 UTC] Webhook Response: 
+[20-Nov-2024 22:54:45 UTC] Webhook Response: 
+[20-Nov-2024 22:54:45 UTC] Webhook Response: 
+[21-Nov-2024 01:47:33 UTC] Webhook Response: 
+[21-Nov-2024 01:47:33 UTC] Webhook Response: 
+[21-Nov-2024 01:47:39 UTC] Webhook Response: 
+[21-Nov-2024 01:47:39 UTC] Webhook Response: 
+[21-Nov-2024 01:50:43 UTC] Webhook Response: 
+[21-Nov-2024 01:50:43 UTC] Webhook Response: 
+[21-Nov-2024 01:52:13 UTC] Webhook Response: 
+[21-Nov-2024 01:52:13 UTC] Webhook Response: 
+[21-Nov-2024 02:56:31 UTC] Webhook Response: 
+[21-Nov-2024 02:56:31 UTC] Webhook Response: 
+[21-Nov-2024 03:49:02 UTC] PHP Warning:  Undefined array key "transaction_code" in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/process-payment.php on line 70
+[21-Nov-2024 03:49:02 UTC] PHP Warning:  Undefined array key "amount" in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/process-payment.php on line 71
+[21-Nov-2024 03:49:03 UTC] Webhook Response: 
+[21-Nov-2024 03:49:08 UTC] PHP Warning:  Undefined array key "transaction_code" in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/process-payment.php on line 70
+[21-Nov-2024 03:49:08 UTC] PHP Warning:  Undefined array key "amount" in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/process-payment.php on line 71
+[21-Nov-2024 03:49:09 UTC] Webhook Response: 
+[21-Nov-2024 03:50:02 UTC] PHP Warning:  Undefined array key "transaction_code" in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/process-payment.php on line 70
+[21-Nov-2024 03:50:02 UTC] PHP Warning:  Undefined array key "amount" in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/process-payment.php on line 71
+[21-Nov-2024 03:50:03 UTC] Webhook Response: 
+[21-Nov-2024 03:51:09 UTC] Webhook Response: 
+[21-Nov-2024 03:51:09 UTC] Webhook Response: 
+[21-Nov-2024 03:59:08 UTC] Webhook Response: 
+[21-Nov-2024 03:59:08 UTC] Webhook Response: 
+[21-Nov-2024 03:59:21 UTC] Webhook Response: 
+[21-Nov-2024 03:59:21 UTC] Webhook Response: 
+[21-Nov-2024 03:59:30 UTC] Webhook Response: 
+[21-Nov-2024 03:59:30 UTC] Webhook Response: 
+[21-Nov-2024 04:03:44 UTC] PHP Notice:  file_get_contents(): Read of 12288 bytes failed with errno=21 Is a directory in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/get-latest-webhook.php on line 8
+[21-Nov-2024 04:03:44 UTC] PHP Notice:  file_get_contents(): Read of 12288 bytes failed with errno=21 Is a directory in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/get-latest-webhook.php on line 8
+[21-Nov-2024 04:04:49 UTC] Webhook Response: 
+[21-Nov-2024 04:04:49 UTC] Webhook Response: 
+[21-Nov-2024 04:16:14 UTC] Webhook Response: 
+[21-Nov-2024 04:16:14 UTC] Webhook Response: 
+[21-Nov-2024 04:37:01 UTC] Webhook Response: 
+[21-Nov-2024 04:37:01 UTC] Webhook Response: 
+[21-Nov-2024 04:39:35 UTC] Webhook Response: 
+[21-Nov-2024 04:39:35 UTC] Webhook Response: 
+[21-Nov-2024 04:55:04 UTC] Webhook Response: 
+[21-Nov-2024 04:55:04 UTC] Webhook Response: 
+[21-Nov-2024 05:36:52 UTC] Webhook Response: 
+[21-Nov-2024 05:36:52 UTC] Webhook Response: 
+[21-Nov-2024 06:08:13 UTC] Webhook Response: 
+[21-Nov-2024 06:08:13 UTC] Webhook Response: 
+[21-Nov-2024 06:22:50 UTC] Webhook Response: 
+[21-Nov-2024 06:22:50 UTC] Webhook Response: 
+[21-Nov-2024 07:45:15 UTC] Webhook Response: 
+[21-Nov-2024 07:45:15 UTC] Webhook Response: 
+[21-Nov-2024 07:54:14 UTC] Webhook Response: 
+[21-Nov-2024 07:54:14 UTC] Webhook Response: 
+[21-Nov-2024 07:54:19 UTC] Webhook Response: 
+[21-Nov-2024 07:54:19 UTC] Webhook Response: 
+[21-Nov-2024 07:56:33 UTC] Webhook Response: 
+[21-Nov-2024 07:56:33 UTC] Webhook Response: 
+[21-Nov-2024 08:03:30 UTC] Webhook Response: 
+[21-Nov-2024 08:03:35 UTC] Webhook Response: 
+[21-Nov-2024 08:04:53 UTC] Webhook Response: 
+[21-Nov-2024 08:04:53 UTC] Webhook Response: 
+[21-Nov-2024 08:05:12 UTC] PHP Warning:  Undefined variable $cacheDir in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 9
+[21-Nov-2024 08:05:12 UTC] PHP Warning:  Undefined variable $cacheDir in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 10
+[21-Nov-2024 08:05:12 UTC] PHP Warning:  mkdir(): Invalid path in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 10
+[21-Nov-2024 08:05:12 UTC] PHP Warning:  Undefined variable $webhookArray in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 30
+[21-Nov-2024 08:05:40 UTC] Webhook Response: 
+[21-Nov-2024 08:05:40 UTC] Webhook Response: 
+[21-Nov-2024 08:05:56 UTC] PHP Warning:  Undefined variable $cacheDir in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 9
+[21-Nov-2024 08:05:56 UTC] PHP Warning:  Undefined variable $cacheDir in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 10
+[21-Nov-2024 08:05:56 UTC] PHP Warning:  mkdir(): Invalid path in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 10
+[21-Nov-2024 08:05:56 UTC] PHP Warning:  Undefined variable $webhookArray in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 30
+[21-Nov-2024 08:13:15 UTC] Webhook Response: 
+[21-Nov-2024 08:13:15 UTC] Webhook Response: 
+[21-Nov-2024 08:13:40 UTC] PHP Warning:  Undefined variable $cacheDir in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 9
+[21-Nov-2024 08:13:40 UTC] PHP Warning:  Undefined variable $cacheDir in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 10
+[21-Nov-2024 08:13:40 UTC] PHP Warning:  mkdir(): Invalid path in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 10
+[21-Nov-2024 08:13:40 UTC] PHP Warning:  Undefined variable $webhookArray in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 30
+[21-Nov-2024 08:16:28 UTC] Webhook Response: 
+[21-Nov-2024 08:16:28 UTC] Webhook Response: 
+[21-Nov-2024 08:16:51 UTC] PHP Warning:  Undefined variable $cacheDir in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 9
+[21-Nov-2024 08:16:51 UTC] PHP Warning:  Undefined variable $cacheDir in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 10
+[21-Nov-2024 08:16:51 UTC] PHP Warning:  mkdir(): Invalid path in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 10
+[21-Nov-2024 08:16:51 UTC] PHP Warning:  Undefined variable $webhookArray in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 30
+[21-Nov-2024 08:17:54 UTC] Webhook Response: 
+[21-Nov-2024 08:17:54 UTC] Webhook Response: 
+[21-Nov-2024 08:18:23 UTC] PHP Warning:  Undefined variable $cacheDir in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 9
+[21-Nov-2024 08:18:23 UTC] PHP Warning:  Undefined variable $cacheDir in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 10
+[21-Nov-2024 08:18:23 UTC] PHP Warning:  mkdir(): Invalid path in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 10
+[21-Nov-2024 08:18:23 UTC] PHP Warning:  Undefined variable $webhookArray in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 30
+[21-Nov-2024 08:21:31 UTC] Webhook Response: 
+[21-Nov-2024 08:21:35 UTC] Webhook Response: 
+[21-Nov-2024 08:21:52 UTC] PHP Warning:  Undefined variable $cacheDir in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 9
+[21-Nov-2024 08:21:52 UTC] PHP Warning:  Undefined variable $cacheDir in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 10
+[21-Nov-2024 08:21:52 UTC] PHP Warning:  mkdir(): Invalid path in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 10
+[21-Nov-2024 08:21:52 UTC] PHP Warning:  Undefined variable $webhookArray in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 30
+[21-Nov-2024 08:24:03 UTC] Webhook Response: 
+[21-Nov-2024 08:24:07 UTC] Webhook Response: 
+[21-Nov-2024 08:24:25 UTC] PHP Warning:  Undefined variable $cacheDir in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 9
+[21-Nov-2024 08:24:25 UTC] PHP Warning:  Undefined variable $cacheDir in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 10
+[21-Nov-2024 08:24:25 UTC] PHP Warning:  mkdir(): Invalid path in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 10
+[21-Nov-2024 08:24:25 UTC] PHP Warning:  Undefined variable $webhookArray in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 30
+[21-Nov-2024 08:24:52 UTC] Webhook Response: 
+[21-Nov-2024 08:24:52 UTC] Webhook Response: 
+[21-Nov-2024 08:25:17 UTC] PHP Warning:  Undefined variable $cacheDir in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 9
+[21-Nov-2024 08:25:17 UTC] PHP Warning:  Undefined variable $cacheDir in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 10
+[21-Nov-2024 08:25:17 UTC] PHP Warning:  mkdir(): Invalid path in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 10
+[21-Nov-2024 08:25:17 UTC] PHP Warning:  Undefined variable $webhookArray in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 30
+[22-Nov-2024 09:31:13 UTC] PHP Warning:  Undefined variable $cacheDir in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 9
+[22-Nov-2024 09:31:13 UTC] PHP Warning:  Undefined variable $cacheDir in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 10
+[22-Nov-2024 09:31:13 UTC] PHP Warning:  mkdir(): Invalid path in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 10
+[22-Nov-2024 09:31:13 UTC] PHP Warning:  Undefined variable $webhookArray in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 30
+[22-Nov-2024 09:43:15 UTC] PHP Warning:  Undefined variable $cacheDir in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 9
+[22-Nov-2024 09:43:15 UTC] PHP Warning:  Undefined variable $cacheDir in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 10
+[22-Nov-2024 09:43:15 UTC] PHP Warning:  mkdir(): Invalid path in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 10
+[22-Nov-2024 09:43:15 UTC] PHP Warning:  Undefined variable $webhookArray in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 30
+[22-Nov-2024 09:47:41 UTC] PHP Warning:  Undefined variable $cacheDir in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 9
+[22-Nov-2024 09:47:41 UTC] PHP Warning:  Undefined variable $cacheDir in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 10
+[22-Nov-2024 09:47:41 UTC] PHP Warning:  mkdir(): Invalid path in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 10
+[22-Nov-2024 09:47:41 UTC] PHP Warning:  Undefined variable $webhookArray in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 30
+[22-Nov-2024 09:50:34 UTC] PHP Warning:  Undefined variable $cacheDir in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 9
+[22-Nov-2024 09:50:34 UTC] PHP Warning:  Undefined variable $cacheDir in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 10
+[22-Nov-2024 09:50:34 UTC] PHP Warning:  mkdir(): Invalid path in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 10
+[22-Nov-2024 09:50:34 UTC] PHP Warning:  Undefined variable $webhookArray in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 30
+[22-Nov-2024 10:25:48 UTC] PHP Warning:  Undefined variable $cacheDir in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 9
+[22-Nov-2024 10:25:48 UTC] PHP Warning:  Undefined variable $cacheDir in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 10
+[22-Nov-2024 10:25:48 UTC] PHP Warning:  mkdir(): Invalid path in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 10
+[22-Nov-2024 10:25:48 UTC] PHP Warning:  Undefined variable $webhookArray in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 30
+[22-Nov-2024 10:27:27 UTC] PHP Warning:  Undefined variable $cacheDir in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 9
+[22-Nov-2024 10:27:27 UTC] PHP Warning:  Undefined variable $cacheDir in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 10
+[22-Nov-2024 10:27:27 UTC] PHP Warning:  mkdir(): Invalid path in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 10
+[22-Nov-2024 10:27:27 UTC] PHP Warning:  Undefined variable $webhookArray in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 30
+[22-Nov-2024 10:30:24 UTC] PHP Warning:  Undefined variable $cacheDir in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 9
+[22-Nov-2024 10:30:24 UTC] PHP Warning:  Undefined variable $cacheDir in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 10
+[22-Nov-2024 10:30:24 UTC] PHP Warning:  mkdir(): Invalid path in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 10
+[22-Nov-2024 10:30:24 UTC] PHP Warning:  Undefined variable $webhookArray in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 30
+[22-Nov-2024 15:59:51 UTC] PHP Warning:  Undefined variable $cacheDir in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 9
+[22-Nov-2024 15:59:51 UTC] PHP Warning:  Undefined variable $cacheDir in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 10
+[22-Nov-2024 15:59:51 UTC] PHP Warning:  mkdir(): Invalid path in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 10
+[22-Nov-2024 15:59:51 UTC] PHP Warning:  Undefined variable $webhookArray in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 30
+[22-Nov-2024 16:04:02 UTC] Webhook Response: 
+[22-Nov-2024 18:41:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/Microtransactions.php:20) in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/Microtransactions.php on line 942
+[22-Nov-2024 18:41:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/Microtransactions.php:20) in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/Microtransactions.php on line 942
+[22-Nov-2024 18:41:57 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/Microtransactions.php:20) in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/Microtransactions.php on line 942
+[22-Nov-2024 18:42:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/Microtransactions.php:20) in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/Microtransactions.php on line 942
+[22-Nov-2024 18:42:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/Microtransactions.php:20) in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/Microtransactions.php on line 942
+[22-Nov-2024 18:43:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/Microtransactions.php:20) in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/Microtransactions.php on line 942
+[22-Nov-2024 20:20:50 UTC] PHP Warning:  Undefined array key "treatmentName" in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/process-payment.php on line 72
+[22-Nov-2024 20:20:50 UTC] PHP Warning:  Undefined array key "pwdNumber" in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/process-payment.php on line 73
+[22-Nov-2024 20:20:56 UTC] Webhook Response: 
+[22-Nov-2024 20:21:13 UTC] PHP Warning:  Undefined variable $cacheDir in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 9
+[22-Nov-2024 20:21:13 UTC] PHP Warning:  Undefined variable $cacheDir in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 10
+[22-Nov-2024 20:21:13 UTC] PHP Warning:  mkdir(): Invalid path in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 10
+[22-Nov-2024 20:21:13 UTC] PHP Warning:  Undefined variable $webhookArray in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 30
+[23-Nov-2024 03:09:22 UTC] PHP Warning:  Undefined variable $cacheDir in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 9
+[23-Nov-2024 03:09:22 UTC] PHP Warning:  Undefined variable $cacheDir in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 10
+[23-Nov-2024 03:09:22 UTC] PHP Warning:  mkdir(): Invalid path in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 10
+[23-Nov-2024 03:09:22 UTC] PHP Warning:  Undefined variable $webhookArray in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 30
+[23-Nov-2024 03:10:41 UTC] PHP Warning:  Undefined variable $cacheDir in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 9
+[23-Nov-2024 03:10:41 UTC] PHP Warning:  Undefined variable $cacheDir in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 10
+[23-Nov-2024 03:10:41 UTC] PHP Warning:  mkdir(): Invalid path in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 10
+[23-Nov-2024 03:10:41 UTC] PHP Warning:  Undefined variable $webhookArray in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 30
+[23-Nov-2024 03:24:35 UTC] PHP Warning:  Undefined variable $cacheDir in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 9
+[23-Nov-2024 03:24:35 UTC] PHP Warning:  Undefined variable $cacheDir in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 10
+[23-Nov-2024 03:24:35 UTC] PHP Warning:  mkdir(): Invalid path in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 10
+[23-Nov-2024 03:24:35 UTC] PHP Warning:  Undefined variable $webhookArray in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 30
+[23-Nov-2024 09:45:47 UTC] PHP Warning:  Undefined variable $cacheDir in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 9
+[23-Nov-2024 09:45:47 UTC] PHP Warning:  Undefined variable $cacheDir in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 10
+[23-Nov-2024 09:45:47 UTC] PHP Warning:  mkdir(): Invalid path in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 10
+[23-Nov-2024 09:45:47 UTC] PHP Warning:  Undefined variable $webhookArray in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 30
+[24-Nov-2024 10:20:54 UTC] PHP Warning:  Undefined variable $cacheDir in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 9
+[24-Nov-2024 10:20:54 UTC] PHP Warning:  Undefined variable $cacheDir in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 10
+[24-Nov-2024 10:20:54 UTC] PHP Warning:  mkdir(): Invalid path in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 10
+[24-Nov-2024 10:20:54 UTC] PHP Warning:  Undefined variable $webhookArray in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 30
+[24-Nov-2024 13:57:58 UTC] PHP Warning:  Undefined variable $cacheDir in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 9
+[24-Nov-2024 13:57:58 UTC] PHP Warning:  Undefined variable $cacheDir in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 10
+[24-Nov-2024 13:57:58 UTC] PHP Warning:  mkdir(): Invalid path in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 10
+[24-Nov-2024 13:57:58 UTC] PHP Warning:  Undefined variable $webhookArray in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 30
+[24-Nov-2024 16:02:08 UTC] PHP Warning:  Undefined variable $cacheDir in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 9
+[24-Nov-2024 16:02:08 UTC] PHP Warning:  Undefined variable $cacheDir in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 10
+[24-Nov-2024 16:02:08 UTC] PHP Warning:  mkdir(): Invalid path in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 10
+[24-Nov-2024 16:02:08 UTC] PHP Warning:  Undefined variable $webhookArray in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 30
+[24-Nov-2024 16:17:02 UTC] PHP Warning:  Undefined variable $cacheDir in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 9
+[24-Nov-2024 16:17:02 UTC] PHP Warning:  Undefined variable $cacheDir in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 10
+[24-Nov-2024 16:17:02 UTC] PHP Warning:  mkdir(): Invalid path in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 10
+[24-Nov-2024 16:17:02 UTC] PHP Warning:  Undefined variable $webhookArray in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 30
+[25-Nov-2024 12:43:20 UTC] PHP Warning:  Undefined array key "userID" in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/Microtransactions.php on line 4
+[25-Nov-2024 12:43:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/Microtransactions.php:5
+Stack trace:
+#0 /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/Microtransactions.php(5): mysqli->query()
+#1 {main}
+  thrown in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/Microtransactions.php on line 5
+[25-Nov-2024 12:43:23 UTC] PHP Warning:  Undefined array key "userID" in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/Microtransactions.php on line 4
+[25-Nov-2024 12:43:23 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/Microtransactions.php:5
+Stack trace:
+#0 /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/Microtransactions.php(5): mysqli->query()
+#1 {main}
+  thrown in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/Microtransactions.php on line 5
+[25-Nov-2024 12:43:24 UTC] PHP Warning:  Undefined array key "userID" in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/Microtransactions.php on line 4
+[25-Nov-2024 12:43:24 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/Microtransactions.php:5
+Stack trace:
+#0 /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/Microtransactions.php(5): mysqli->query()
+#1 {main}
+  thrown in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/Microtransactions.php on line 5
+[25-Nov-2024 12:43:33 UTC] PHP Warning:  Undefined array key "userID" in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/Microtransactions.php on line 4
+[25-Nov-2024 12:43:33 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/Microtransactions.php:5
+Stack trace:
+#0 /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/Microtransactions.php(5): mysqli->query()
+#1 {main}
+  thrown in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/Microtransactions.php on line 5
+[25-Nov-2024 12:43:52 UTC] PHP Warning:  Undefined array key "userID" in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/Microtransactions.php on line 4
+[25-Nov-2024 12:43:52 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/Microtransactions.php:5
+Stack trace:
+#0 /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/Microtransactions.php(5): mysqli->query()
+#1 {main}
+  thrown in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/Microtransactions.php on line 5
+[25-Nov-2024 12:43:56 UTC] PHP Warning:  Undefined array key "userID" in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/Microtransactions.php on line 4
+[25-Nov-2024 12:43:56 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/Microtransactions.php:5
+Stack trace:
+#0 /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/Microtransactions.php(5): mysqli->query()
+#1 {main}
+  thrown in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/Microtransactions.php on line 5
+[25-Nov-2024 12:43:57 UTC] PHP Warning:  Undefined array key "userID" in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/Microtransactions.php on line 4
+[25-Nov-2024 12:43:57 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/Microtransactions.php:5
+Stack trace:
+#0 /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/Microtransactions.php(5): mysqli->query()
+#1 {main}
+  thrown in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/Microtransactions.php on line 5
+[25-Nov-2024 15:12:47 UTC] PHP Warning:  Undefined array key "userID" in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/Microtransactions.php on line 4
+[25-Nov-2024 15:12:47 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/Microtransactions.php:5
+Stack trace:
+#0 /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/Microtransactions.php(5): mysqli->query()
+#1 {main}
+  thrown in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/Microtransactions.php on line 5
+[25-Nov-2024 15:12:50 UTC] PHP Warning:  Undefined array key "userID" in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/Microtransactions.php on line 4
+[25-Nov-2024 15:12:50 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/Microtransactions.php:5
+Stack trace:
+#0 /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/Microtransactions.php(5): mysqli->query()
+#1 {main}
+  thrown in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/Microtransactions.php on line 5
+[25-Nov-2024 20:27:09 UTC] Webhook Response: 
+[25-Nov-2024 20:27:35 UTC] Webhook Response: 
+[25-Nov-2024 20:28:28 UTC] PHP Warning:  Undefined variable $cacheDir in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 9
+[25-Nov-2024 20:28:28 UTC] PHP Warning:  Undefined variable $cacheDir in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 10
+[25-Nov-2024 20:28:28 UTC] PHP Warning:  mkdir(): Invalid path in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 10
+[25-Nov-2024 20:28:28 UTC] PHP Warning:  Undefined variable $webhookArray in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 30
+[25-Nov-2024 20:33:58 UTC] Webhook Response: 
+[25-Nov-2024 20:34:12 UTC] Webhook Response: 
+[25-Nov-2024 20:34:28 UTC] Webhook Response: 
+[25-Nov-2024 20:35:00 UTC] Webhook Response: 
+[25-Nov-2024 20:35:25 UTC] Webhook Response: 
+[25-Nov-2024 20:36:01 UTC] PHP Warning:  Undefined variable $cacheDir in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 9
+[25-Nov-2024 20:36:01 UTC] PHP Warning:  Undefined variable $cacheDir in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 10
+[25-Nov-2024 20:36:01 UTC] PHP Warning:  mkdir(): Invalid path in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 10
+[25-Nov-2024 20:36:01 UTC] PHP Warning:  Undefined variable $webhookArray in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 30
+[25-Nov-2024 20:37:38 UTC] Webhook Response: 
+[25-Nov-2024 20:38:54 UTC] PayMongo Response: {"data":{"id":"link_XYsvjhF5DewYiBsb7V67kWXJ","type":"link","attributes":{"amount":1600000,"archived":false,"currency":"PHP","description":"PAYMENT DETAILS\n\nService: \n                                                            Crown and Bridge\n\nPWD ID Number: 5436556\n\nPAYMENT BREAKDOWN\n━━━━━━━━━━━━━━━━━━━━━━\nOriginal Amount:    PHP 20,000.00\nDiscount (20%):     PHP 4,000.00\n━━━━━━━━━━━━━━━━━━━━━━\nFinal Amount:       PHP 16,000.00\n\nTransaction Code: 6PIPFO","livemode":false,"fee":0,"remarks":"6PIPFO","status":"unpaid","tax_amount":null,"taxes":[],"checkout_url":"https://pm.link/org-yvdcd5vf56Jc1ZsQHzgTGKng/test/r6scEN7","reference_number":"r6scEN7","created_at":1732567134,"updated_at":1732567134,"payments":[]}}}
+[25-Nov-2024 20:38:54 UTC] Webhook Response: 
+[25-Nov-2024 20:39:39 UTC] PHP Warning:  Undefined variable $cacheDir in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 9
+[25-Nov-2024 20:39:39 UTC] PHP Warning:  Undefined variable $cacheDir in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 10
+[25-Nov-2024 20:39:39 UTC] PHP Warning:  mkdir(): Invalid path in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 10
+[25-Nov-2024 20:39:39 UTC] PHP Warning:  Undefined variable $webhookArray in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 30
+[25-Nov-2024 20:42:43 UTC] PayMongo Response: {"data":{"id":"link_eoaQjdYrMangfF3Lf6DQwKrD","type":"link","attributes":{"amount":1600000,"archived":false,"currency":"PHP","description":"PAYMENT DETAILS\n\nService: \n                                                            Crown and Bridge\n\nPWD              ID Number: 564365\n\n                           PAYMENT BREAKDOWN\n━━━━━━━━━━━━━━━━━━━━━━\n         Original Amount:    PHP 20,000.00\nDiscount (20%):     PHP 4,000.00\n━━━━━━━━━━━━━━━━━━━━━━\n         Final Amount:       PHP 16,000.00\n\n                                                        Transaction Code: 6PIPFO","livemode":false,"fee":0,"remarks":"6PIPFO","status":"unpaid","tax_amount":null,"taxes":[],"checkout_url":"https://pm.link/org-yvdcd5vf56Jc1ZsQHzgTGKng/test/YWUHozA","reference_number":"YWUHozA","created_at":1732567363,"updated_at":1732567363,"payments":[]}}}
+[25-Nov-2024 20:42:43 UTC] Webhook Response: 
+[25-Nov-2024 20:43:18 UTC] PHP Warning:  Undefined variable $cacheDir in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 9
+[25-Nov-2024 20:43:18 UTC] PHP Warning:  Undefined variable $cacheDir in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 10
+[25-Nov-2024 20:43:18 UTC] PHP Warning:  mkdir(): Invalid path in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 10
+[25-Nov-2024 20:43:18 UTC] PHP Warning:  Undefined variable $webhookArray in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 30
+[25-Nov-2024 20:49:10 UTC] PayMongo Response: {"data":{"id":"link_gp59J4KzhbgBxePdD43Npuam","type":"link","attributes":{"amount":1600000,"archived":false,"currency":"PHP","description":"PAYMENT DETAILS\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\nService: \n                                                            Crown and Bridge\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\nPWD ID Number: 64356546\n-------PAYMENT BREAKDOWN-------━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n Original Amount:  PHP 20,000.00\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\nDiscount (20%):    PHP 4,000.00\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n Final Amount: PHP 16,000.00\n\n                                                        Transaction Code: 6PIPFO","livemode":false,"fee":0,"remarks":"6PIPFO","status":"unpaid","tax_amount":null,"taxes":[],"checkout_url":"https://pm.link/org-yvdcd5vf56Jc1ZsQHzgTGKng/test/iAL4g6f","reference_number":"iAL4g6f","created_at":1732567750,"updated_at":1732567750,"payments":[]}}}
+[25-Nov-2024 20:49:10 UTC] Webhook Response: 
+[25-Nov-2024 20:49:51 UTC] PHP Warning:  Undefined variable $cacheDir in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 9
+[25-Nov-2024 20:49:51 UTC] PHP Warning:  Undefined variable $cacheDir in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 10
+[25-Nov-2024 20:49:51 UTC] PHP Warning:  mkdir(): Invalid path in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 10
+[25-Nov-2024 20:49:51 UTC] PHP Warning:  Undefined variable $webhookArray in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 30
+[25-Nov-2024 20:52:46 UTC] PayMongo Response: {"data":{"id":"link_8LyUTY62LnADWBg6vUVxnk9M","type":"link","attributes":{"amount":1600000,"archived":false,"currency":"PHP","description":"PAYMENT DETAILS\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\nService: \n                                                            Crown and Bridge\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\nPWD ID Number: 665645656\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n Original Amount:  PHP 20,000.00\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\nDiscount (20%):    PHP 4,000.00\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n Final Amount: PHP 16,000.00\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n Transaction Code: 6PIPFO","livemode":false,"fee":0,"remarks":"6PIPFO","status":"unpaid","tax_amount":null,"taxes":[],"checkout_url":"https://pm.link/org-yvdcd5vf56Jc1ZsQHzgTGKng/test/AbzXP3V","reference_number":"AbzXP3V","created_at":1732567966,"updated_at":1732567966,"payments":[]}}}
+[25-Nov-2024 20:52:46 UTC] Webhook Response: 
+[25-Nov-2024 20:53:33 UTC] PHP Warning:  Undefined variable $cacheDir in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 9
+[25-Nov-2024 20:53:33 UTC] PHP Warning:  Undefined variable $cacheDir in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 10
+[25-Nov-2024 20:53:33 UTC] PHP Warning:  mkdir(): Invalid path in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 10
+[25-Nov-2024 20:53:33 UTC] PHP Warning:  Undefined variable $webhookArray in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 30
+[25-Nov-2024 20:57:42 UTC] PayMongo Response: {"data":{"id":"link_Mu3nMfKwbf5vWdM2VeaX1Jof","type":"link","attributes":{"amount":1600000,"archived":false,"currency":"PHP","description":"PAYMENT DETAILS\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\nService: \n                                                            Crown and Bridge\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\nPWD ID Number: 04386484\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n Original Amount:  PHP 20,000.00\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\nDiscount (20%):    PHP 4,000.00\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n Final Amount: PHP 16,000.00\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n Transaction Code: 6PIPFO","livemode":false,"fee":0,"remarks":"6PIPFO","status":"unpaid","tax_amount":null,"taxes":[],"checkout_url":"https://pm.link/org-yvdcd5vf56Jc1ZsQHzgTGKng/test/m8GsrnK","reference_number":"m8GsrnK","created_at":1732568262,"updated_at":1732568262,"payments":[]}}}
+[25-Nov-2024 20:57:43 UTC] Webhook Response: 
+[25-Nov-2024 20:58:18 UTC] PHP Warning:  Undefined variable $cacheDir in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 9
+[25-Nov-2024 20:58:18 UTC] PHP Warning:  Undefined variable $cacheDir in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 10
+[25-Nov-2024 20:58:18 UTC] PHP Warning:  mkdir(): Invalid path in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 10
+[25-Nov-2024 20:58:18 UTC] PHP Warning:  Undefined variable $webhookArray in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/webhook_listener.php on line 30
+[29-Nov-2024 23:34:45 UTC] PayMongo Response: {"data":{"id":"link_U7Yua33PZisHccMDTmsuEz3a","type":"link","attributes":{"amount":240000,"archived":false,"currency":"PHP","description":"PAYMENT DETAILS\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\nService: \n                                                            Full and Partial Dentures\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\nPWD ID Number: 8643864\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n Original Amount:  PHP 3,000.00\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\nDiscount (20%):    PHP 600.00\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n Final Amount: PHP 2,400.00\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n Transaction Code: E80JL3","livemode":false,"fee":0,"remarks":"E80JL3","status":"unpaid","tax_amount":null,"taxes":[],"checkout_url":"https://pm.link/org-yvdcd5vf56Jc1ZsQHzgTGKng/test/JSLvL1e","reference_number":"JSLvL1e","created_at":1732923285,"updated_at":1732923285,"payments":[]}}}
+[29-Nov-2024 23:34:45 UTC] Webhook Response: 
+[29-Nov-2024 23:55:19 UTC] PayMongo Response: {"data":{"id":"link_62FLyBupz14XcWXJ9BeaayXf","type":"link","attributes":{"amount":50000,"archived":false,"currency":"PHP","description":"PAYMENT DETAILS\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\nService: \n                                                            Tooth Extraction\n\nAmount: PHP 500.00\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n Transaction Code: 8SZ4AJ","livemode":false,"fee":0,"remarks":"8SZ4AJ","status":"unpaid","tax_amount":null,"taxes":[],"checkout_url":"https://pm.link/org-yvdcd5vf56Jc1ZsQHzgTGKng/test/eM36w8o","reference_number":"eM36w8o","created_at":1732924519,"updated_at":1732924519,"payments":[]}}}
+[29-Nov-2024 23:55:19 UTC] Webhook Response: 
+[30-Nov-2024 00:30:14 UTC] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: null - string in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/process-payment.php:41
+Stack trace:
+#0 /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/process-payment.php(116): createPaymongoLink()
+#1 {main}
+  thrown in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/process-payment.php on line 41
+[30-Nov-2024 00:30:21 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/process-payment.php:45
+Stack trace:
+#0 /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/process-payment.php(45): number_format()
+#1 /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/process-payment.php(116): createPaymongoLink()
+#2 {main}
+  thrown in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/process-payment.php on line 45
+[30-Nov-2024 00:31:09 UTC] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: null - string in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/process-payment.php:41
+Stack trace:
+#0 /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/process-payment.php(116): createPaymongoLink()
+#1 {main}
+  thrown in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/process-payment.php on line 41
+[30-Nov-2024 00:33:51 UTC] PHP Warning:  Undefined variable $stmt in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/process-payment.php on line 12
+[30-Nov-2024 00:33:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/process-payment.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/rm2bgfu7h06d/public_html/Admin-Dashboard/Micro-transactions/process-payment.php on line 12
+[30-Nov-2024 00:37:42 UTC] Invalid PayMongo response: {"data":{"id":"link_Ds5pCZhjk5PvR2YQZN4txwJD","type":"link","attributes":{"amount":240000,"archived":false,"currency":"PHP","description":"PAYMENT DETAILS\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\nService: \n                                                            Full and Partial Dentures\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\nPWD ID Number: 12123123\nOriginal Amount: PHP 3,000.00\nDiscount (20%): PHP 600.00\nFinal Amount: PHP 2,400.00\nTransaction Code: GKPX22","livemode":false,"fee":0,"remarks":"GKPX22","status":"unpaid","tax_amount":null,"taxes":[],"checkout_url":"https://pm.link/org-yvdcd5vf56Jc1ZsQHzgTGKng/test/RCtmEpR","reference_number":"RCtmEpR","created_at":1732927062,"updated_at":1732927062,"payments":[]}}}
+[30-Nov-2024 00:37:42 UTC] Error: Failed to create payment link.
+[30-Nov-2024 00:40:13 UTC] PayMongo Response: {"data":{"id":"link_1ZDv15SDhb7MyLtDA3JTCeFq","type":"link","attributes":{"amount":240000,"archived":false,"currency":"PHP","description":"PAYMENT DETAILS\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\nService: \n                                                            Full and Partial Dentures\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\nPWD ID Number: 12123123\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n Original Amount:  PHP 3,000.00\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\nDiscount (20%):    PHP 600.00\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n Final Amount: PHP 2,400.00\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n Transaction Code: GKPX22","livemode":false,"fee":0,"remarks":"GKPX22","status":"unpaid","tax_amount":null,"taxes":[],"checkout_url":"https://pm.link/org-yvdcd5vf56Jc1ZsQHzgTGKng/test/cmKc4zr","reference_number":"cmKc4zr","created_at":1732927213,"updated_at":1732927213,"payments":[]}}}
+[30-Nov-2024 00:40:13 UTC] Webhook Response: 
+[30-Nov-2024 00:46:33 UTC] PayMongo Response: {"data":{"id":"link_Mq5WUZQASt6nq26rLTqyLPLB","type":"link","attributes":{"amount":240000,"archived":false,"currency":"PHP","description":"PAYMENT DETAILS\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\nService: \n                                                            Full and Partial Dentures\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\nPWD ID Number: 12123123\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n Original Amount:  PHP 3,000.00\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\nDiscount (20%):    PHP 600.00\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n Final Amount: PHP 2,400.00\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n Transaction Code: GKPX22","livemode":false,"fee":0,"remarks":"GKPX22","status":"unpaid","tax_amount":null,"taxes":[],"checkout_url":"https://pm.link/org-yvdcd5vf56Jc1ZsQHzgTGKng/test/215LJ6f","reference_number":"215LJ6f","created_at":1732927593,"updated_at":1732927593,"payments":[]}}}
+[30-Nov-2024 00:46:33 UTC] Webhook Response: 
+[30-Nov-2024 01:10:21 UTC] PayMongo Response: {"data":{"id":"link_u3Fk5DdXhjvGtrceEkzEG9oT","type":"link","attributes":{"amount":50000,"archived":false,"currency":"PHP","description":"PAYMENT DETAILS\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\nService: \n                                                            Tooth Extraction\n\nAmount: PHP 500.00\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n Transaction Code: C4N5MR","livemode":false,"fee":0,"remarks":"C4N5MR","status":"unpaid","tax_amount":null,"taxes":[],"checkout_url":"https://pm.link/org-yvdcd5vf56Jc1ZsQHzgTGKng/test/6fnb9vf","reference_number":"6fnb9vf","created_at":1732929021,"updated_at":1732929021,"payments":[]}}}
+[30-Nov-2024 01:10:21 UTC] Webhook Response: 
+[30-Nov-2024 06:05:17 UTC] PayMongo Response: {"data":{"id":"link_9d7XRRnxq7MpSqU2zLe6UpFM","type":"link","attributes":{"amount":280000,"archived":false,"currency":"PHP","description":"PAYMENT DETAILS\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\nService: \n                                                            Orthodontics\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\nPWD ID Number: 13394750937\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n Original Amount:  PHP 3,500.00\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\nDiscount (20%):    PHP 700.00\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n Final Amount: PHP 2,800.00\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n Transaction Code: TT2383","livemode":false,"fee":0,"remarks":"TT2383","status":"unpaid","tax_amount":null,"taxes":[],"checkout_url":"https://pm.link/org-yvdcd5vf56Jc1ZsQHzgTGKng/test/NyhFNBE","reference_number":"NyhFNBE","created_at":1732946717,"updated_at":1732946717,"payments":[]}}}
+[30-Nov-2024 06:05:17 UTC] Webhook Response: 
+[03-Dec-2024 18:03:31 UTC] PayMongo Response: {"data":{"id":"link_ihaUcwPpev64e6L7iBcNdvtc","type":"link","attributes":{"amount":300000,"archived":false,"currency":"PHP","description":"PAYMENT DETAILS\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\nService: \n                                                            Full and Partial Dentures\n\nAmount: PHP 3,000.00\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n Transaction Code: ZUHV9X","livemode":false,"fee":0,"remarks":"ZUHV9X","status":"unpaid","tax_amount":null,"taxes":[],"checkout_url":"https://pm.link/org-tzciJgujHo4Gw1aTK5T6yTTU/test/FMsioEk","reference_number":"FMsioEk","created_at":1733249010,"updated_at":1733249010,"payments":[]}}}
+[03-Dec-2024 18:03:31 UTC] Webhook Response: 
+[03-Dec-2024 21:16:31 UTC] PayMongo Response: {"data":{"id":"link_oDXwjDhUxQbBrFG3hqSPDkWZ","type":"link","attributes":{"amount":76000,"archived":false,"currency":"PHP","description":"PAYMENT DETAILS\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\nService: \n                                                            Crown and Bridge\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\nPWD ID Number: 123123\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n Original Amount:  PHP 950.00\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\nDiscount (20%):    PHP 190.00\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n Final Amount: PHP 760.00\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n Transaction Code: BUTUS3","livemode":false,"fee":0,"remarks":"BUTUS3","status":"unpaid","tax_amount":null,"taxes":[],"checkout_url":"https://pm.link/org-tzciJgujHo4Gw1aTK5T6yTTU/test/Br5pou1","reference_number":"Br5pou1","created_at":1733260591,"updated_at":1733260591,"payments":[]}}}
+[03-Dec-2024 21:16:31 UTC] Webhook Response: 
+[04-Dec-2024 17:55:38 UTC] PayMongo Response: {"data":{"id":"link_9xwNAcxzp47npR3pHfp3M8br","type":"link","attributes":{"amount":240000,"archived":false,"currency":"PHP","description":"PAYMENT DETAILS\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\nService: \n                                                            Full and Partial Dentures\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\nPWD ID Number: 453456345\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n Original Amount:  PHP 3,000.00\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\nDiscount (20%):    PHP 600.00\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n Final Amount: PHP 2,400.00\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n Transaction Code: G3AVD5","livemode":false,"fee":0,"remarks":"G3AVD5","status":"unpaid","tax_amount":null,"taxes":[],"checkout_url":"https://pm.link/org-tzciJgujHo4Gw1aTK5T6yTTU/test/2JafzEr","reference_number":"2JafzEr","created_at":1733334938,"updated_at":1733334938,"payments":[]}}}
+[04-Dec-2024 17:55:38 UTC] Webhook Response: 

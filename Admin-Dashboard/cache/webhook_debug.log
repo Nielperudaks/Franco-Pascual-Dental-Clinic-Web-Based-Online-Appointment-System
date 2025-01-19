@@ -1,0 +1,13 @@
+2024-11-07 06:40:34 Reading webhook: Array
+(
+    [id] => 672a6476a2135
+    [timestamp] => 2024-11-05 19:31:18
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 1500
+            [status] => paid
+        )
+
+)
+

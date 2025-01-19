@@ -1,0 +1,2375 @@
+2024-11-23 03:24:38 Received webhook: {"data":{"id":"evt_dAmadXqXFCkCdJQJ1LRpP3kD","type":"event","attributes":{"type":"payment.paid","livemode":false,"data":{"id":"pay_eKMz98zgKCavVG4hdjrhHo8D","type":"payment","attributes":{"access_url":null,"amount":10000,"balance_transaction_id":"bal_txn_GUnU8TxiYKCmrZnFAomM7CBb","billing":{"address":{"city":"Taguig","country":"PH","line1":"12th floor The Trade and Financial Tower u1206","line2":"32nd street and 7th Avenue","postal_code":"1630","state":"Bonifacio Global City"},"email":"abuyen000@gmail.com","name":"eman","phone":"09292226733"},"currency":"PHP","description":"Payment for Transaction: WP5A1J","disputed":false,"external_reference_number":"AQqnz4t","fee":250,"instant_settlement":null,"livemode":false,"net_amount":9750,"origin":"links","payment_intent_id":null,"payout":null,"source":{"id":"src_jhf8pkqSh3fwxbonJbN3gjwM","type":"gcash"},"statement_descriptor":"Franco-Pascual Dental Clinic","status":"paid","tax_amount":null,"metadata":{"pm_reference_number":"AQqnz4t"},"promotion":null,"refunds":[],"taxes":[],"available_at":1732698000,"created_at":1732332274,"credited_at":1733302800,"paid_at":1732332274,"updated_at":1732332274}},"previous_data":{},"created_at":1732332274,"updated_at":1732332274}}}
+2024-11-23 03:24:40 Reading webhook: Array
+(
+    [id] => 67414af617976
+    [timestamp] => 2024-11-23 03:24:38
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 100
+            [status] => paid
+        )
+
+)
+
+2024-11-23 09:43:13 Reading webhook: Array
+(
+    [id] => 67414af617976
+    [timestamp] => 2024-11-23 03:24:38
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 100
+            [status] => paid
+        )
+
+)
+
+2024-11-23 09:45:07 Reading webhook: Array
+(
+    [id] => 67414af617976
+    [timestamp] => 2024-11-23 03:24:38
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 100
+            [status] => paid
+        )
+
+)
+
+2024-11-23 09:45:12 Reading webhook: Array
+(
+    [id] => 67414af617976
+    [timestamp] => 2024-11-23 03:24:38
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 100
+            [status] => paid
+        )
+
+)
+
+2024-11-23 09:45:17 Reading webhook: Array
+(
+    [id] => 67414af617976
+    [timestamp] => 2024-11-23 03:24:38
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 100
+            [status] => paid
+        )
+
+)
+
+2024-11-23 09:45:22 Reading webhook: Array
+(
+    [id] => 67414af617976
+    [timestamp] => 2024-11-23 03:24:38
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 100
+            [status] => paid
+        )
+
+)
+
+2024-11-23 09:45:27 Reading webhook: Array
+(
+    [id] => 67414af617976
+    [timestamp] => 2024-11-23 03:24:38
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 100
+            [status] => paid
+        )
+
+)
+
+2024-11-23 09:45:32 Reading webhook: Array
+(
+    [id] => 67414af617976
+    [timestamp] => 2024-11-23 03:24:38
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 100
+            [status] => paid
+        )
+
+)
+
+2024-11-23 09:45:37 Reading webhook: Array
+(
+    [id] => 67414af617976
+    [timestamp] => 2024-11-23 03:24:38
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 100
+            [status] => paid
+        )
+
+)
+
+2024-11-23 09:45:42 Reading webhook: Array
+(
+    [id] => 67414af617976
+    [timestamp] => 2024-11-23 03:24:38
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 100
+            [status] => paid
+        )
+
+)
+
+2024-11-23 09:45:46 Reading webhook: Array
+(
+    [id] => 67414af617976
+    [timestamp] => 2024-11-23 03:24:38
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 100
+            [status] => paid
+        )
+
+)
+
+2024-11-23 09:45:50 Received webhook: {"data":{"id":"evt_SuBjkwbAiWUXEGnxyzsa54u7","type":"event","attributes":{"type":"payment.paid","livemode":false,"data":{"id":"pay_RRvgeKqDAQAHGEztpeXLYve9","type":"payment","attributes":{"access_url":null,"amount":10000,"balance_transaction_id":"bal_txn_L3f1KYc5DadgvnqG2p1N6my8","billing":{"address":{"city":"Taguig","country":"PH","line1":"12th floor The Trade and Financial Tower u1206","line2":"32nd street and 7th Avenue","postal_code":"1630","state":"Bonifacio Global City"},"email":"bianesstalen@gmail.com","name":"Romeo","phone":"09292226733"},"currency":"PHP","description":"Payment for Transaction: ZT99ZD","disputed":false,"external_reference_number":"uGuPydd","fee":250,"instant_settlement":null,"livemode":false,"net_amount":9750,"origin":"links","payment_intent_id":null,"payout":null,"source":{"id":"src_8bzocp7vfAz7bb6iwcqS2PAx","type":"gcash"},"statement_descriptor":"Franco-Pascual Dental Clinic","status":"paid","tax_amount":null,"metadata":{"pm_reference_number":"uGuPydd"},"promotion":null,"refunds":[],"taxes":[],"available_at":1732698000,"created_at":1732355146,"credited_at":1733302800,"paid_at":1732355146,"updated_at":1732355146}},"previous_data":{},"created_at":1732355146,"updated_at":1732355146}}}
+2024-11-23 09:45:51 Reading webhook: Array
+(
+    [id] => 6741a44e63e00
+    [timestamp] => 2024-11-23 09:45:50
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 100
+            [status] => paid
+        )
+
+)
+
+2024-11-24 10:20:27 Reading webhook: Array
+(
+    [id] => 6741a44e63e00
+    [timestamp] => 2024-11-23 09:45:50
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 100
+            [status] => paid
+        )
+
+)
+
+2024-11-24 10:20:57 Received webhook: {"data":{"id":"evt_g2Af8gMaCZEnhgVe1BxhL3Bt","type":"event","attributes":{"type":"payment.paid","livemode":false,"data":{"id":"pay_KrqJgKrGy8gdNbr9gdr4MgNs","type":"payment","attributes":{"access_url":null,"amount":20000,"balance_transaction_id":"bal_txn_pKJYZ6LisMVviTQdqcSkWWd3","billing":{"address":{"city":"Taguig","country":"PH","line1":"12th floor The Trade and Financial Tower u1206","line2":"32nd street and 7th Avenue","postal_code":"1630","state":"Bonifacio Global City"},"email":"renielperuda2@gmail.com","name":"reniel Raquel peruda","phone":"09292226733"},"currency":"PHP","description":"Payment for Transaction: 03IFVA","disputed":false,"external_reference_number":"JrQ81RW","fee":500,"instant_settlement":null,"livemode":false,"net_amount":19500,"origin":"links","payment_intent_id":null,"payout":null,"source":{"id":"src_cfFmbmXcQMKeRqf4fyXsSmk8","type":"gcash"},"statement_descriptor":"Franco-Pascual Dental Clinic","status":"paid","tax_amount":null,"metadata":{"pm_reference_number":"JrQ81RW"},"promotion":null,"refunds":[],"taxes":[],"available_at":1732698000,"created_at":1732443653,"credited_at":1733302800,"paid_at":1732443653,"updated_at":1732443653}},"previous_data":{},"created_at":1732443653,"updated_at":1732443653}}}
+2024-11-24 13:56:25 Reading webhook: Array
+(
+    [id] => 6742fe0988bae
+    [timestamp] => 2024-11-24 10:20:57
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 200
+            [status] => paid
+        )
+
+)
+
+2024-11-24 13:57:20 Reading webhook: Array
+(
+    [id] => 6742fe0988bae
+    [timestamp] => 2024-11-24 10:20:57
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 200
+            [status] => paid
+        )
+
+)
+
+2024-11-24 13:57:25 Reading webhook: Array
+(
+    [id] => 6742fe0988bae
+    [timestamp] => 2024-11-24 10:20:57
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 200
+            [status] => paid
+        )
+
+)
+
+2024-11-24 13:57:30 Reading webhook: Array
+(
+    [id] => 6742fe0988bae
+    [timestamp] => 2024-11-24 10:20:57
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 200
+            [status] => paid
+        )
+
+)
+
+2024-11-24 13:57:35 Reading webhook: Array
+(
+    [id] => 6742fe0988bae
+    [timestamp] => 2024-11-24 10:20:57
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 200
+            [status] => paid
+        )
+
+)
+
+2024-11-24 13:57:41 Reading webhook: Array
+(
+    [id] => 6742fe0988bae
+    [timestamp] => 2024-11-24 10:20:57
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 200
+            [status] => paid
+        )
+
+)
+
+2024-11-24 13:57:46 Reading webhook: Array
+(
+    [id] => 6742fe0988bae
+    [timestamp] => 2024-11-24 10:20:57
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 200
+            [status] => paid
+        )
+
+)
+
+2024-11-24 13:57:50 Reading webhook: Array
+(
+    [id] => 6742fe0988bae
+    [timestamp] => 2024-11-24 10:20:57
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 200
+            [status] => paid
+        )
+
+)
+
+2024-11-24 13:57:56 Reading webhook: Array
+(
+    [id] => 6742fe0988bae
+    [timestamp] => 2024-11-24 10:20:57
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 200
+            [status] => paid
+        )
+
+)
+
+2024-11-24 13:58:00 Reading webhook: Array
+(
+    [id] => 6742fe0988bae
+    [timestamp] => 2024-11-24 10:20:57
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 200
+            [status] => paid
+        )
+
+)
+
+2024-11-24 13:58:01 Received webhook: {"data":{"id":"evt_5z18sznBcDUxWnQLED3cmAeN","type":"event","attributes":{"type":"payment.paid","livemode":false,"data":{"id":"pay_DiDaRQwn9rVeqgR2JJWfspqr","type":"payment","attributes":{"access_url":null,"amount":20000,"balance_transaction_id":"bal_txn_BhdP5uAmLJqXEemTFw9DQw1A","billing":{"address":{"city":"Taguig","country":"PH","line1":"12th floor The Trade and Financial Tower u1206","line2":"32nd street and 7th Avenue","postal_code":"1630","state":"Bonifacio Global City"},"email":"renielperuda2@gmail.com","name":"reniel Raquel peruda","phone":"09292226733"},"currency":"PHP","description":"Payment for Transaction: 4GC88I","disputed":false,"external_reference_number":"yKvtVmW","fee":500,"instant_settlement":null,"livemode":false,"net_amount":19500,"origin":"links","payment_intent_id":null,"payout":null,"source":{"id":"src_2s6hFxdZBtLn39WKDHaSTeGL","type":"gcash"},"statement_descriptor":"Franco-Pascual Dental Clinic","status":"paid","tax_amount":null,"metadata":{"pm_reference_number":"yKvtVmW"},"promotion":null,"refunds":[],"taxes":[],"available_at":1732698000,"created_at":1732456677,"credited_at":1733302800,"paid_at":1732456677,"updated_at":1732456677}},"previous_data":{},"created_at":1732456677,"updated_at":1732456677}}}
+2024-11-24 13:58:05 Reading webhook: Array
+(
+    [id] => 674330e9a98e1
+    [timestamp] => 2024-11-24 13:58:01
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 200
+            [status] => paid
+        )
+
+)
+
+2024-11-24 14:50:20 Reading webhook: Array
+(
+    [id] => 674330e9a98e1
+    [timestamp] => 2024-11-24 13:58:01
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 200
+            [status] => paid
+        )
+
+)
+
+2024-11-24 15:58:18 Reading webhook: Array
+(
+    [id] => 674330e9a98e1
+    [timestamp] => 2024-11-24 13:58:01
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 200
+            [status] => paid
+        )
+
+)
+
+2024-11-24 16:01:57 Reading webhook: Array
+(
+    [id] => 674330e9a98e1
+    [timestamp] => 2024-11-24 13:58:01
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 200
+            [status] => paid
+        )
+
+)
+
+2024-11-24 16:02:02 Reading webhook: Array
+(
+    [id] => 674330e9a98e1
+    [timestamp] => 2024-11-24 13:58:01
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 200
+            [status] => paid
+        )
+
+)
+
+2024-11-24 16:02:07 Reading webhook: Array
+(
+    [id] => 674330e9a98e1
+    [timestamp] => 2024-11-24 13:58:01
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 200
+            [status] => paid
+        )
+
+)
+
+2024-11-24 16:02:12 Received webhook: {"data":{"id":"evt_hL7DVGZfLoug4FEQ8sYwga6Z","type":"event","attributes":{"type":"payment.paid","livemode":false,"data":{"id":"pay_s78RMHbFujSkf9Ter4F2xpUR","type":"payment","attributes":{"access_url":null,"amount":10000,"balance_transaction_id":"bal_txn_LzwCU7H3GMyvo3quGiyLMQjT","billing":{"address":{"city":"Taguig","country":"PH","line1":"12th floor The Trade and Financial Tower u1206","line2":"32nd street and 7th Avenue","postal_code":"1630","state":"Bonifacio Global City"},"email":"renielperuda2@gmail.com","name":"reniel Raquel peruda","phone":"09292226733"},"currency":"PHP","description":"Payment for Transaction: MRA4YH","disputed":false,"external_reference_number":"e1MjzXa","fee":250,"instant_settlement":null,"livemode":false,"net_amount":9750,"origin":"links","payment_intent_id":null,"payout":null,"source":{"id":"src_6qfdbziZk5mKBzxpF1DuCcsZ","type":"gcash"},"statement_descriptor":"Franco-Pascual Dental Clinic","status":"paid","tax_amount":null,"metadata":{"pm_reference_number":"e1MjzXa"},"promotion":null,"refunds":[],"taxes":[],"available_at":1732698000,"created_at":1732464128,"credited_at":1733302800,"paid_at":1732464128,"updated_at":1732464128}},"previous_data":{},"created_at":1732464128,"updated_at":1732464128}}}
+2024-11-24 16:02:12 Reading webhook: Array
+(
+    [id] => 67434e040e0a6
+    [timestamp] => 2024-11-24 16:02:12
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 100
+            [status] => paid
+        )
+
+)
+
+2024-11-24 16:16:47 Reading webhook: Array
+(
+    [id] => 67434e040e0a6
+    [timestamp] => 2024-11-24 16:02:12
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 100
+            [status] => paid
+        )
+
+)
+
+2024-11-24 16:16:52 Reading webhook: Array
+(
+    [id] => 67434e040e0a6
+    [timestamp] => 2024-11-24 16:02:12
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 100
+            [status] => paid
+        )
+
+)
+
+2024-11-24 16:16:57 Reading webhook: Array
+(
+    [id] => 67434e040e0a6
+    [timestamp] => 2024-11-24 16:02:12
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 100
+            [status] => paid
+        )
+
+)
+
+2024-11-24 16:17:02 Reading webhook: Array
+(
+    [id] => 67434e040e0a6
+    [timestamp] => 2024-11-24 16:02:12
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 100
+            [status] => paid
+        )
+
+)
+
+2024-11-24 16:17:05 Received webhook: {"data":{"id":"evt_siikuavkhbKpfzwDTRCzNGiG","type":"event","attributes":{"type":"payment.paid","livemode":false,"data":{"id":"pay_tLSdsXtB5CLtKza6RcjA7tPD","type":"payment","attributes":{"access_url":null,"amount":10000,"balance_transaction_id":"bal_txn_PmtZfNGQyDXEppAEGGPdTiM8","billing":{"address":{"city":"Taguig","country":"PH","line1":"12th floor The Trade and Financial Tower u1206","line2":"32nd street and 7th Avenue","postal_code":"1630","state":"Bonifacio Global City"},"email":"renielperuda2@gmail.com","name":"reniel Raquel peruda","phone":"09292226733"},"currency":"PHP","description":"Payment for Transaction: 9PPBEN","disputed":false,"external_reference_number":"954LMsm","fee":250,"instant_settlement":null,"livemode":false,"net_amount":9750,"origin":"links","payment_intent_id":null,"payout":null,"source":{"id":"src_PQ2rzKGLY645Bw4kniMS4tZ1","type":"gcash"},"statement_descriptor":"Franco-Pascual Dental Clinic","status":"paid","tax_amount":null,"metadata":{"pm_reference_number":"954LMsm"},"promotion":null,"refunds":[],"taxes":[],"available_at":1732698000,"created_at":1732465021,"credited_at":1733302800,"paid_at":1732465021,"updated_at":1732465021}},"previous_data":{},"created_at":1732465021,"updated_at":1732465021}}}
+2024-11-24 16:17:07 Reading webhook: Array
+(
+    [id] => 67435181e24f7
+    [timestamp] => 2024-11-24 16:17:05
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 100
+            [status] => paid
+        )
+
+)
+
+2024-11-25 10:24:33 Reading webhook: Array
+(
+    [id] => 67435181e24f7
+    [timestamp] => 2024-11-24 16:17:05
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 100
+            [status] => paid
+        )
+
+)
+
+2024-11-25 19:47:53 Reading webhook: Array
+(
+    [id] => 67435181e24f7
+    [timestamp] => 2024-11-24 16:17:05
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 100
+            [status] => paid
+        )
+
+)
+
+2024-11-25 20:28:31 Received webhook: {"data":{"id":"evt_h8Y5EPg5JQF99VQTroadumTP","type":"event","attributes":{"type":"payment.paid","livemode":false,"data":{"id":"pay_caM3mGcEfh1M4njiVvrCedJx","type":"payment","attributes":{"access_url":null,"amount":1600000,"balance_transaction_id":"bal_txn_H2ZaK8wfcVS9UtYAKyMTguw4","billing":{"address":{"city":"Taguig","country":"PH","line1":"12th floor The Trade and Financial Tower u1206","line2":"32nd street and 7th Avenue","postal_code":"1630","state":"Bonifacio Global City"},"email":"renielperuda2@gmail.com","name":"Reniel","phone":"09292226733"},"currency":"PHP","description":"Payment for Service: \n                                                            Crown and Bridge\nPWD ID No.: 09292226733\nOriginal Amount: PHP 20,000.00\nDiscount Applied: 20%\nFinal Amount: PHP 16,000.00","disputed":false,"external_reference_number":"D3hx3oE","fee":40000,"instant_settlement":null,"livemode":false,"net_amount":1560000,"origin":"links","payment_intent_id":null,"payout":null,"source":{"id":"src_TJ4pTH1tXHKpgmYKt6fMQLE8","type":"gcash"},"statement_descriptor":"Franco-Pascual Dental Clinic","status":"paid","tax_amount":null,"metadata":{"pm_reference_number":"D3hx3oE"},"promotion":null,"refunds":[],"taxes":[],"available_at":1732784400,"created_at":1732566507,"credited_at":1733302800,"paid_at":1732566507,"updated_at":1732566507}},"previous_data":{},"created_at":1732566507,"updated_at":1732566507}}}
+2024-11-25 20:36:04 Received webhook: {"data":{"id":"evt_wUo9gbyrfutnzuW8V7y5arBg","type":"event","attributes":{"type":"payment.paid","livemode":false,"data":{"id":"pay_aLkhxmfrtkUqWRvyowxHarUc","type":"payment","attributes":{"access_url":null,"amount":1600000,"balance_transaction_id":"bal_txn_Db8kVuMKB9EVASMDYphnRKmC","billing":{"address":{"city":"Taguig","country":"PH","line1":"12th floor The Trade and Financial Tower u1206","line2":"32nd street and 7th Avenue","postal_code":"1630","state":"Bonifacio Global City"},"email":"renielperuda2@gmail.com","name":"NielPerudaks","phone":"09292226733"},"currency":"PHP","description":"Payment for Service: \n                                                            Crown and Bridge\nPWD ID No.: 5345643\nOriginal Amount: PHP 20,000.00\nDiscount Applied: 20%\nFinal Amount: PHP 16,000.00","disputed":false,"external_reference_number":"XwWcS3E","fee":40000,"instant_settlement":null,"livemode":false,"net_amount":1560000,"origin":"links","payment_intent_id":null,"payout":null,"source":{"id":"src_cdpztHLWgDANT4GK5XducrPu","type":"gcash"},"statement_descriptor":"Franco-Pascual Dental Clinic","status":"paid","tax_amount":null,"metadata":{"pm_reference_number":"XwWcS3E"},"promotion":null,"refunds":[],"taxes":[],"available_at":1732784400,"created_at":1732566960,"credited_at":1733302800,"paid_at":1732566960,"updated_at":1732566960}},"previous_data":{},"created_at":1732566960,"updated_at":1732566960}}}
+2024-11-25 20:39:42 Received webhook: {"data":{"id":"evt_w3fRbdCTLwncEqHaFCfgQpdR","type":"event","attributes":{"type":"payment.paid","livemode":false,"data":{"id":"pay_yeXbNmPo12iF9EzZNxKJcZSt","type":"payment","attributes":{"access_url":null,"amount":1600000,"balance_transaction_id":"bal_txn_uTcVsxaL3GZmWwYpr3vvJm3W","billing":{"address":{"city":"Taguig","country":"PH","line1":"12th floor The Trade and Financial Tower u1206","line2":"32nd street and 7th Avenue","postal_code":"1630","state":"Bonifacio Global City"},"email":"renielperuda2@gmail.com","name":"RenielPerudaks","phone":"0929222733"},"currency":"PHP","description":"PAYMENT DETAILS\n\nService: \n                                                            Crown and Bridge\n\nPWD ID Number: 5436556\n\nPAYMENT BREAKDOWN\n━━━━━━━━━━━━━━━━━━━━━━\nOriginal Amount:    PHP 20,000.00\nDiscount (20%):     PHP 4,000.00\n━━━━━━━━━━━━━━━━━━━━━━\nFinal Amount:       PHP 16,000.00\n\nTransaction Code: 6PIPFO","disputed":false,"external_reference_number":"r6scEN7","fee":40000,"instant_settlement":null,"livemode":false,"net_amount":1560000,"origin":"links","payment_intent_id":null,"payout":null,"source":{"id":"src_T2WAkXEvap4JCCP4a24RojAC","type":"gcash"},"statement_descriptor":"Franco-Pascual Dental Clinic","status":"paid","tax_amount":null,"metadata":{"pm_reference_number":"r6scEN7"},"promotion":null,"refunds":[],"taxes":[],"available_at":1732784400,"created_at":1732567178,"credited_at":1733302800,"paid_at":1732567178,"updated_at":1732567178}},"previous_data":{},"created_at":1732567178,"updated_at":1732567178}}}
+2024-11-25 20:43:21 Received webhook: {"data":{"id":"evt_gDye3YAeVNodugyHVmmBhVdb","type":"event","attributes":{"type":"payment.paid","livemode":false,"data":{"id":"pay_NfBZxE7rEz7xs7kMRJWZa2g5","type":"payment","attributes":{"access_url":null,"amount":1600000,"balance_transaction_id":"bal_txn_78jjCrFqJWBscGQtq6jLBi2f","billing":{"address":{"city":"Taguig","country":"PH","line1":"12th floor The Trade and Financial Tower u1206","line2":"32nd street and 7th Avenue","postal_code":"1630","state":"Bonifacio Global City"},"email":"renielperuda2@gmail.com","name":"Niel","phone":"09292226733"},"currency":"PHP","description":"PAYMENT DETAILS\n\nService: \n                                                            Crown and Bridge\n\nPWD              ID Number: 564365\n\n                           PAYMENT BREAKDOWN\n━━━━━━━━━━━━━━━━━━━━━━\n         Original Amount:    PHP 20,000.00\nDiscount (20%):     PHP 4,000.00\n━━━━━━━━━━━━━━━━━━━━━━\n         Final Amount:       PHP 16,000.00\n\n                                                        Transaction Code: 6PIPFO","disputed":false,"external_reference_number":"YWUHozA","fee":40000,"instant_settlement":null,"livemode":false,"net_amount":1560000,"origin":"links","payment_intent_id":null,"payout":null,"source":{"id":"src_q9TqNvsssiuKXc9GQ6iGVUur","type":"gcash"},"statement_descriptor":"Franco-Pascual Dental Clinic","status":"paid","tax_amount":null,"metadata":{"pm_reference_number":"YWUHozA"},"promotion":null,"refunds":[],"taxes":[],"available_at":1732784400,"created_at":1732567397,"credited_at":1733302800,"paid_at":1732567397,"updated_at":1732567397}},"previous_data":{},"created_at":1732567397,"updated_at":1732567397}}}
+2024-11-25 20:49:54 Received webhook: {"data":{"id":"evt_dUoem3QCn3LjkmkxT3LmLsEP","type":"event","attributes":{"type":"payment.paid","livemode":false,"data":{"id":"pay_3ovh9gxmpUvM9KiLc2fK1f6f","type":"payment","attributes":{"access_url":null,"amount":1600000,"balance_transaction_id":"bal_txn_8Jv5ZHnBTetSh36MV9JrPrKa","billing":{"address":{"city":"Taguig","country":"PH","line1":"12th floor The Trade and Financial Tower u1206","line2":"32nd street and 7th Avenue","postal_code":"1630","state":"Bonifacio Global City"},"email":"renielperuda2@gmail.com","name":"RenielPerudaks","phone":"09292226733"},"currency":"PHP","description":"PAYMENT DETAILS\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\nService: \n                                                            Crown and Bridge\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\nPWD ID Number: 64356546\n-------PAYMENT BREAKDOWN-------━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n Original Amount:  PHP 20,000.00\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\nDiscount (20%):    PHP 4,000.00\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n Final Amount: PHP 16,000.00\n\n                                                        Transaction Code: 6PIPFO","disputed":false,"external_reference_number":"iAL4g6f","fee":40000,"instant_settlement":null,"livemode":false,"net_amount":1560000,"origin":"links","payment_intent_id":null,"payout":null,"source":{"id":"src_HoJA4EHi52UdEMrZeFCQyqVN","type":"gcash"},"statement_descriptor":"Franco-Pascual Dental Clinic","status":"paid","tax_amount":null,"metadata":{"pm_reference_number":"iAL4g6f"},"promotion":null,"refunds":[],"taxes":[],"available_at":1732784400,"created_at":1732567790,"credited_at":1733302800,"paid_at":1732567790,"updated_at":1732567790}},"previous_data":{},"created_at":1732567790,"updated_at":1732567790}}}
+2024-11-25 20:53:36 Received webhook: {"data":{"id":"evt_yVBTQG2QXzmUAXGxJ1njc8kf","type":"event","attributes":{"type":"payment.paid","livemode":false,"data":{"id":"pay_ntbyZSYiNK5ueBqUAo51Sfxy","type":"payment","attributes":{"access_url":null,"amount":1600000,"balance_transaction_id":"bal_txn_HczJyVUoaGWCff9QkCEpRTue","billing":{"address":{"city":"Taguig","country":"PH","line1":"12th floor The Trade and Financial Tower u1206","line2":"32nd street and 7th Avenue","postal_code":"1630","state":"Bonifacio Global City"},"email":"renielperuda2@gmail.com","name":"renielperudaks","phone":"09292226733"},"currency":"PHP","description":"PAYMENT DETAILS\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\nService: \n                                                            Crown and Bridge\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\nPWD ID Number: 665645656\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n Original Amount:  PHP 20,000.00\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\nDiscount (20%):    PHP 4,000.00\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n Final Amount: PHP 16,000.00\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n Transaction Code: 6PIPFO","disputed":false,"external_reference_number":"AbzXP3V","fee":40000,"instant_settlement":null,"livemode":false,"net_amount":1560000,"origin":"links","payment_intent_id":null,"payout":null,"source":{"id":"src_9s7HfyifRZvaND8CCNqeWXVy","type":"gcash"},"statement_descriptor":"Franco-Pascual Dental Clinic","status":"paid","tax_amount":null,"metadata":{"pm_reference_number":"AbzXP3V"},"promotion":null,"refunds":[],"taxes":[],"available_at":1732784400,"created_at":1732568012,"credited_at":1733302800,"paid_at":1732568012,"updated_at":1732568012}},"previous_data":{},"created_at":1732568012,"updated_at":1732568012}}}
+2024-11-25 20:58:21 Received webhook: {"data":{"id":"evt_WTdkNf4b17RUUcUWvQS5Qh4J","type":"event","attributes":{"type":"payment.paid","livemode":false,"data":{"id":"pay_oVowCC1w2hAj1jZZvG1eyvyy","type":"payment","attributes":{"access_url":null,"amount":1600000,"balance_transaction_id":"bal_txn_GCt2X8t8xGNWAnk7KNUW71EF","billing":{"address":{"city":"Taguig","country":"PH","line1":"12th floor The Trade and Financial Tower u1206","line2":"32nd street and 7th Avenue","postal_code":"1630","state":"Bonifacio Global City"},"email":"renielperuda2@gmail.com","name":"NielPerudaks","phone":"09292226733"},"currency":"PHP","description":"PAYMENT DETAILS\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\nService: \n                                                            Crown and Bridge\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\nPWD ID Number: 04386484\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n Original Amount:  PHP 20,000.00\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\nDiscount (20%):    PHP 4,000.00\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n Final Amount: PHP 16,000.00\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n Transaction Code: 6PIPFO","disputed":false,"external_reference_number":"m8GsrnK","fee":40000,"instant_settlement":null,"livemode":false,"net_amount":1560000,"origin":"links","payment_intent_id":null,"payout":null,"source":{"id":"src_h1dYAJ5SqJRU5MsnXZZAyEGY","type":"gcash"},"statement_descriptor":"Franco-Pascual Dental Clinic","status":"paid","tax_amount":null,"metadata":{"pm_reference_number":"m8GsrnK"},"promotion":null,"refunds":[],"taxes":[],"available_at":1732784400,"created_at":1732568298,"credited_at":1733302800,"paid_at":1732568298,"updated_at":1732568298}},"previous_data":{},"created_at":1732568298,"updated_at":1732568298}}}
+2024-11-28 04:47:50 Reading webhook: Array
+(
+    [id] => 6744e4ede30d1
+    [timestamp] => 2024-11-25 20:58:21
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 16000
+            [status] => paid
+        )
+
+)
+
+2024-11-28 05:06:42 Reading webhook: Array
+(
+    [id] => 6744e4ede30d1
+    [timestamp] => 2024-11-25 20:58:21
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 16000
+            [status] => paid
+        )
+
+)
+
+2024-11-28 05:06:48 Reading webhook: Array
+(
+    [id] => 6744e4ede30d1
+    [timestamp] => 2024-11-25 20:58:21
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 16000
+            [status] => paid
+        )
+
+)
+
+2024-11-28 05:07:21 Reading webhook: Array
+(
+    [id] => 6744e4ede30d1
+    [timestamp] => 2024-11-25 20:58:21
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 16000
+            [status] => paid
+        )
+
+)
+
+2024-11-28 05:07:32 Reading webhook: Array
+(
+    [id] => 6744e4ede30d1
+    [timestamp] => 2024-11-25 20:58:21
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 16000
+            [status] => paid
+        )
+
+)
+
+2024-11-28 05:09:41 Reading webhook: Array
+(
+    [id] => 6744e4ede30d1
+    [timestamp] => 2024-11-25 20:58:21
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 16000
+            [status] => paid
+        )
+
+)
+
+2024-11-28 05:10:41 Reading webhook: Array
+(
+    [id] => 6744e4ede30d1
+    [timestamp] => 2024-11-25 20:58:21
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 16000
+            [status] => paid
+        )
+
+)
+
+2024-11-28 05:10:46 Reading webhook: Array
+(
+    [id] => 6744e4ede30d1
+    [timestamp] => 2024-11-25 20:58:21
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 16000
+            [status] => paid
+        )
+
+)
+
+2024-11-28 05:10:52 Reading webhook: Array
+(
+    [id] => 6744e4ede30d1
+    [timestamp] => 2024-11-25 20:58:21
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 16000
+            [status] => paid
+        )
+
+)
+
+2024-11-28 05:10:57 Reading webhook: Array
+(
+    [id] => 6744e4ede30d1
+    [timestamp] => 2024-11-25 20:58:21
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 16000
+            [status] => paid
+        )
+
+)
+
+2024-11-28 05:11:04 Reading webhook: Array
+(
+    [id] => 6744e4ede30d1
+    [timestamp] => 2024-11-25 20:58:21
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 16000
+            [status] => paid
+        )
+
+)
+
+2024-11-28 05:11:08 Reading webhook: Array
+(
+    [id] => 6744e4ede30d1
+    [timestamp] => 2024-11-25 20:58:21
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 16000
+            [status] => paid
+        )
+
+)
+
+2024-11-28 05:11:09 Reading webhook: Array
+(
+    [id] => 6744e4ede30d1
+    [timestamp] => 2024-11-25 20:58:21
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 16000
+            [status] => paid
+        )
+
+)
+
+2024-11-28 05:11:13 Reading webhook: Array
+(
+    [id] => 6744e4ede30d1
+    [timestamp] => 2024-11-25 20:58:21
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 16000
+            [status] => paid
+        )
+
+)
+
+2024-11-28 05:11:14 Reading webhook: Array
+(
+    [id] => 6744e4ede30d1
+    [timestamp] => 2024-11-25 20:58:21
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 16000
+            [status] => paid
+        )
+
+)
+
+2024-11-28 05:11:18 Reading webhook: Array
+(
+    [id] => 6744e4ede30d1
+    [timestamp] => 2024-11-25 20:58:21
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 16000
+            [status] => paid
+        )
+
+)
+
+2024-11-28 05:11:19 Reading webhook: Array
+(
+    [id] => 6744e4ede30d1
+    [timestamp] => 2024-11-25 20:58:21
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 16000
+            [status] => paid
+        )
+
+)
+
+2024-11-28 05:11:24 Reading webhook: Array
+(
+    [id] => 6744e4ede30d1
+    [timestamp] => 2024-11-25 20:58:21
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 16000
+            [status] => paid
+        )
+
+)
+
+2024-11-28 05:11:24 Reading webhook: Array
+(
+    [id] => 6744e4ede30d1
+    [timestamp] => 2024-11-25 20:58:21
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 16000
+            [status] => paid
+        )
+
+)
+
+2024-11-28 05:11:29 Reading webhook: Array
+(
+    [id] => 6744e4ede30d1
+    [timestamp] => 2024-11-25 20:58:21
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 16000
+            [status] => paid
+        )
+
+)
+
+2024-11-28 05:11:39 Reading webhook: Array
+(
+    [id] => 6744e4ede30d1
+    [timestamp] => 2024-11-25 20:58:21
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 16000
+            [status] => paid
+        )
+
+)
+
+2024-11-28 05:11:39 Reading webhook: Array
+(
+    [id] => 6744e4ede30d1
+    [timestamp] => 2024-11-25 20:58:21
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 16000
+            [status] => paid
+        )
+
+)
+
+2024-11-28 05:11:44 Reading webhook: Array
+(
+    [id] => 6744e4ede30d1
+    [timestamp] => 2024-11-25 20:58:21
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 16000
+            [status] => paid
+        )
+
+)
+
+2024-11-28 05:11:49 Reading webhook: Array
+(
+    [id] => 6744e4ede30d1
+    [timestamp] => 2024-11-25 20:58:21
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 16000
+            [status] => paid
+        )
+
+)
+
+2024-11-28 05:11:54 Reading webhook: Array
+(
+    [id] => 6744e4ede30d1
+    [timestamp] => 2024-11-25 20:58:21
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 16000
+            [status] => paid
+        )
+
+)
+
+2024-11-28 05:11:59 Reading webhook: Array
+(
+    [id] => 6744e4ede30d1
+    [timestamp] => 2024-11-25 20:58:21
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 16000
+            [status] => paid
+        )
+
+)
+
+2024-11-28 05:12:04 Reading webhook: Array
+(
+    [id] => 6744e4ede30d1
+    [timestamp] => 2024-11-25 20:58:21
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 16000
+            [status] => paid
+        )
+
+)
+
+2024-11-28 05:12:09 Reading webhook: Array
+(
+    [id] => 6744e4ede30d1
+    [timestamp] => 2024-11-25 20:58:21
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 16000
+            [status] => paid
+        )
+
+)
+
+2024-11-28 05:12:13 Reading webhook: Array
+(
+    [id] => 6744e4ede30d1
+    [timestamp] => 2024-11-25 20:58:21
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 16000
+            [status] => paid
+        )
+
+)
+
+2024-11-28 05:12:18 Reading webhook: Array
+(
+    [id] => 6744e4ede30d1
+    [timestamp] => 2024-11-25 20:58:21
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 16000
+            [status] => paid
+        )
+
+)
+
+2024-11-28 05:12:23 Reading webhook: Array
+(
+    [id] => 6744e4ede30d1
+    [timestamp] => 2024-11-25 20:58:21
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 16000
+            [status] => paid
+        )
+
+)
+
+2024-11-28 05:12:28 Reading webhook: Array
+(
+    [id] => 6744e4ede30d1
+    [timestamp] => 2024-11-25 20:58:21
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 16000
+            [status] => paid
+        )
+
+)
+
+2024-11-28 05:12:33 Reading webhook: Array
+(
+    [id] => 6744e4ede30d1
+    [timestamp] => 2024-11-25 20:58:21
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 16000
+            [status] => paid
+        )
+
+)
+
+2024-11-28 05:12:38 Reading webhook: Array
+(
+    [id] => 6744e4ede30d1
+    [timestamp] => 2024-11-25 20:58:21
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 16000
+            [status] => paid
+        )
+
+)
+
+2024-11-28 05:12:43 Reading webhook: Array
+(
+    [id] => 6744e4ede30d1
+    [timestamp] => 2024-11-25 20:58:21
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 16000
+            [status] => paid
+        )
+
+)
+
+2024-11-28 05:12:49 Reading webhook: Array
+(
+    [id] => 6744e4ede30d1
+    [timestamp] => 2024-11-25 20:58:21
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 16000
+            [status] => paid
+        )
+
+)
+
+2024-11-28 05:12:53 Reading webhook: Array
+(
+    [id] => 6744e4ede30d1
+    [timestamp] => 2024-11-25 20:58:21
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 16000
+            [status] => paid
+        )
+
+)
+
+2024-11-28 05:12:58 Reading webhook: Array
+(
+    [id] => 6744e4ede30d1
+    [timestamp] => 2024-11-25 20:58:21
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 16000
+            [status] => paid
+        )
+
+)
+
+2024-11-28 05:13:03 Reading webhook: Array
+(
+    [id] => 6744e4ede30d1
+    [timestamp] => 2024-11-25 20:58:21
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 16000
+            [status] => paid
+        )
+
+)
+
+2024-11-28 05:13:08 Reading webhook: Array
+(
+    [id] => 6744e4ede30d1
+    [timestamp] => 2024-11-25 20:58:21
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 16000
+            [status] => paid
+        )
+
+)
+
+2024-11-28 05:13:13 Reading webhook: Array
+(
+    [id] => 6744e4ede30d1
+    [timestamp] => 2024-11-25 20:58:21
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 16000
+            [status] => paid
+        )
+
+)
+
+2024-11-28 05:13:18 Reading webhook: Array
+(
+    [id] => 6744e4ede30d1
+    [timestamp] => 2024-11-25 20:58:21
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 16000
+            [status] => paid
+        )
+
+)
+
+2024-11-28 05:13:23 Reading webhook: Array
+(
+    [id] => 6744e4ede30d1
+    [timestamp] => 2024-11-25 20:58:21
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 16000
+            [status] => paid
+        )
+
+)
+
+2024-11-28 05:13:28 Reading webhook: Array
+(
+    [id] => 6744e4ede30d1
+    [timestamp] => 2024-11-25 20:58:21
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 16000
+            [status] => paid
+        )
+
+)
+
+2024-11-28 05:13:59 Reading webhook: Array
+(
+    [id] => 6744e4ede30d1
+    [timestamp] => 2024-11-25 20:58:21
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 16000
+            [status] => paid
+        )
+
+)
+
+2024-11-28 05:14:04 Reading webhook: Array
+(
+    [id] => 6744e4ede30d1
+    [timestamp] => 2024-11-25 20:58:21
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 16000
+            [status] => paid
+        )
+
+)
+
+2024-11-28 05:14:05 Reading webhook: Array
+(
+    [id] => 6744e4ede30d1
+    [timestamp] => 2024-11-25 20:58:21
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 16000
+            [status] => paid
+        )
+
+)
+
+2024-11-28 05:14:09 Reading webhook: Array
+(
+    [id] => 6744e4ede30d1
+    [timestamp] => 2024-11-25 20:58:21
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 16000
+            [status] => paid
+        )
+
+)
+
+2024-11-28 05:14:14 Reading webhook: Array
+(
+    [id] => 6744e4ede30d1
+    [timestamp] => 2024-11-25 20:58:21
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 16000
+            [status] => paid
+        )
+
+)
+
+2024-11-28 05:14:16 Reading webhook: Array
+(
+    [id] => 6744e4ede30d1
+    [timestamp] => 2024-11-25 20:58:21
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 16000
+            [status] => paid
+        )
+
+)
+
+2024-11-28 05:14:19 Reading webhook: Array
+(
+    [id] => 6744e4ede30d1
+    [timestamp] => 2024-11-25 20:58:21
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 16000
+            [status] => paid
+        )
+
+)
+
+2024-11-28 05:14:24 Reading webhook: Array
+(
+    [id] => 6744e4ede30d1
+    [timestamp] => 2024-11-25 20:58:21
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 16000
+            [status] => paid
+        )
+
+)
+
+2024-11-28 05:14:29 Reading webhook: Array
+(
+    [id] => 6744e4ede30d1
+    [timestamp] => 2024-11-25 20:58:21
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 16000
+            [status] => paid
+        )
+
+)
+
+2024-11-28 05:14:34 Reading webhook: Array
+(
+    [id] => 6744e4ede30d1
+    [timestamp] => 2024-11-25 20:58:21
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 16000
+            [status] => paid
+        )
+
+)
+
+2024-11-28 05:14:39 Reading webhook: Array
+(
+    [id] => 6744e4ede30d1
+    [timestamp] => 2024-11-25 20:58:21
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 16000
+            [status] => paid
+        )
+
+)
+
+2024-11-28 05:14:44 Reading webhook: Array
+(
+    [id] => 6744e4ede30d1
+    [timestamp] => 2024-11-25 20:58:21
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 16000
+            [status] => paid
+        )
+
+)
+
+2024-11-28 05:14:49 Reading webhook: Array
+(
+    [id] => 6744e4ede30d1
+    [timestamp] => 2024-11-25 20:58:21
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 16000
+            [status] => paid
+        )
+
+)
+
+2024-11-28 05:14:54 Reading webhook: Array
+(
+    [id] => 6744e4ede30d1
+    [timestamp] => 2024-11-25 20:58:21
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 16000
+            [status] => paid
+        )
+
+)
+
+2024-11-28 05:14:59 Reading webhook: Array
+(
+    [id] => 6744e4ede30d1
+    [timestamp] => 2024-11-25 20:58:21
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 16000
+            [status] => paid
+        )
+
+)
+
+2024-11-28 05:15:04 Reading webhook: Array
+(
+    [id] => 6744e4ede30d1
+    [timestamp] => 2024-11-25 20:58:21
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 16000
+            [status] => paid
+        )
+
+)
+
+2024-11-28 05:16:02 Reading webhook: Array
+(
+    [id] => 6744e4ede30d1
+    [timestamp] => 2024-11-25 20:58:21
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 16000
+            [status] => paid
+        )
+
+)
+
+2024-11-28 05:16:07 Reading webhook: Array
+(
+    [id] => 6744e4ede30d1
+    [timestamp] => 2024-11-25 20:58:21
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 16000
+            [status] => paid
+        )
+
+)
+
+2024-11-28 05:16:12 Reading webhook: Array
+(
+    [id] => 6744e4ede30d1
+    [timestamp] => 2024-11-25 20:58:21
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 16000
+            [status] => paid
+        )
+
+)
+
+2024-11-28 05:16:17 Reading webhook: Array
+(
+    [id] => 6744e4ede30d1
+    [timestamp] => 2024-11-25 20:58:21
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 16000
+            [status] => paid
+        )
+
+)
+
+2024-11-28 05:16:22 Reading webhook: Array
+(
+    [id] => 6744e4ede30d1
+    [timestamp] => 2024-11-25 20:58:21
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 16000
+            [status] => paid
+        )
+
+)
+
+2024-11-28 05:16:27 Reading webhook: Array
+(
+    [id] => 6744e4ede30d1
+    [timestamp] => 2024-11-25 20:58:21
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 16000
+            [status] => paid
+        )
+
+)
+
+2024-11-28 05:16:32 Reading webhook: Array
+(
+    [id] => 6744e4ede30d1
+    [timestamp] => 2024-11-25 20:58:21
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 16000
+            [status] => paid
+        )
+
+)
+
+2024-11-28 05:16:37 Reading webhook: Array
+(
+    [id] => 6744e4ede30d1
+    [timestamp] => 2024-11-25 20:58:21
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 16000
+            [status] => paid
+        )
+
+)
+
+2024-11-28 05:16:42 Reading webhook: Array
+(
+    [id] => 6744e4ede30d1
+    [timestamp] => 2024-11-25 20:58:21
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 16000
+            [status] => paid
+        )
+
+)
+
+2024-11-28 05:16:47 Reading webhook: Array
+(
+    [id] => 6744e4ede30d1
+    [timestamp] => 2024-11-25 20:58:21
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 16000
+            [status] => paid
+        )
+
+)
+
+2024-11-28 05:16:52 Reading webhook: Array
+(
+    [id] => 6744e4ede30d1
+    [timestamp] => 2024-11-25 20:58:21
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 16000
+            [status] => paid
+        )
+
+)
+
+2024-11-28 14:30:19 Reading webhook: Array
+(
+    [id] => 6744e4ede30d1
+    [timestamp] => 2024-11-25 20:58:21
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 16000
+            [status] => paid
+        )
+
+)
+
+2024-11-28 21:19:30 Reading webhook: Array
+(
+    [id] => 6744e4ede30d1
+    [timestamp] => 2024-11-25 20:58:21
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 16000
+            [status] => paid
+        )
+
+)
+
+2024-11-29 08:48:44 Reading webhook: Array
+(
+    [id] => 6744e4ede30d1
+    [timestamp] => 2024-11-25 20:58:21
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 16000
+            [status] => paid
+        )
+
+)
+
+2024-11-29 08:49:28 Reading webhook: Array
+(
+    [id] => 6744e4ede30d1
+    [timestamp] => 2024-11-25 20:58:21
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 16000
+            [status] => paid
+        )
+
+)
+
+2024-11-29 08:49:33 Reading webhook: Array
+(
+    [id] => 6744e4ede30d1
+    [timestamp] => 2024-11-25 20:58:21
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 16000
+            [status] => paid
+        )
+
+)
+
+2024-11-29 08:49:38 Reading webhook: Array
+(
+    [id] => 6744e4ede30d1
+    [timestamp] => 2024-11-25 20:58:21
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 16000
+            [status] => paid
+        )
+
+)
+
+2024-11-29 08:49:44 Reading webhook: Array
+(
+    [id] => 6744e4ede30d1
+    [timestamp] => 2024-11-25 20:58:21
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 16000
+            [status] => paid
+        )
+
+)
+
+2024-11-29 08:49:49 Reading webhook: Array
+(
+    [id] => 6744e4ede30d1
+    [timestamp] => 2024-11-25 20:58:21
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 16000
+            [status] => paid
+        )
+
+)
+
+2024-11-29 08:49:54 Reading webhook: Array
+(
+    [id] => 6744e4ede30d1
+    [timestamp] => 2024-11-25 20:58:21
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 16000
+            [status] => paid
+        )
+
+)
+
+2024-11-29 08:49:59 Reading webhook: Array
+(
+    [id] => 6744e4ede30d1
+    [timestamp] => 2024-11-25 20:58:21
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 16000
+            [status] => paid
+        )
+
+)
+
+2024-11-29 08:50:04 Reading webhook: Array
+(
+    [id] => 6744e4ede30d1
+    [timestamp] => 2024-11-25 20:58:21
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 16000
+            [status] => paid
+        )
+
+)
+
+2024-11-29 08:50:09 Reading webhook: Array
+(
+    [id] => 6744e4ede30d1
+    [timestamp] => 2024-11-25 20:58:21
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 16000
+            [status] => paid
+        )
+
+)
+
+2024-11-29 08:50:14 Reading webhook: Array
+(
+    [id] => 6744e4ede30d1
+    [timestamp] => 2024-11-25 20:58:21
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 16000
+            [status] => paid
+        )
+
+)
+
+2024-11-29 08:50:19 Reading webhook: Array
+(
+    [id] => 6744e4ede30d1
+    [timestamp] => 2024-11-25 20:58:21
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 16000
+            [status] => paid
+        )
+
+)
+
+2024-11-29 08:50:24 Reading webhook: Array
+(
+    [id] => 6744e4ede30d1
+    [timestamp] => 2024-11-25 20:58:21
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 16000
+            [status] => paid
+        )
+
+)
+
+2024-11-29 08:50:28 Reading webhook: Array
+(
+    [id] => 6744e4ede30d1
+    [timestamp] => 2024-11-25 20:58:21
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 16000
+            [status] => paid
+        )
+
+)
+
+2024-11-29 08:50:29 Received webhook: {"data":{"id":"evt_MJKtRGxr1wL7f5HwDGTbrWuH","type":"event","attributes":{"type":"payment.paid","livemode":false,"data":{"id":"pay_VsSAHZiAFHGeTGSwQqgoP4Ky","type":"payment","attributes":{"access_url":null,"amount":10000,"balance_transaction_id":"bal_txn_x7xHYEYrAeJNWG5pakQtaSxQ","billing":{"address":{"city":"Taguig","country":"PH","line1":"12th floor The Trade and Financial Tower u1206","line2":"32nd street and 7th Avenue","postal_code":"1630","state":"Bonifacio Global City"},"email":"abuyen69123@gmail.com","name":"Marionne","phone":"09498448933"},"currency":"PHP","description":"Payment for Transaction: 2O8DOD","disputed":false,"external_reference_number":"uzJWHbo","fee":250,"instant_settlement":null,"livemode":false,"net_amount":9750,"origin":"links","payment_intent_id":null,"payout":null,"source":{"id":"src_8e9ezHoATFntonMQSj2is8uH","type":"gcash"},"statement_descriptor":"Franco-Pascual Dental Clinic","status":"paid","tax_amount":null,"metadata":{"pm_reference_number":"uzJWHbo"},"promotion":null,"refunds":[],"taxes":[],"available_at":1733216400,"created_at":1732870225,"credited_at":1733302800,"paid_at":1732870225,"updated_at":1732870225}},"previous_data":{},"created_at":1732870225,"updated_at":1732870225}}}
+2024-11-29 08:50:33 Reading webhook: Array
+(
+    [id] => 674980551936e
+    [timestamp] => 2024-11-29 08:50:29
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 100
+            [status] => paid
+        )
+
+)
+
+2024-11-29 18:48:44 Reading webhook: Array
+(
+    [id] => 674980551936e
+    [timestamp] => 2024-11-29 08:50:29
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 100
+            [status] => paid
+        )
+
+)
+
+2024-11-29 18:49:36 Reading webhook: Array
+(
+    [id] => 674980551936e
+    [timestamp] => 2024-11-29 08:50:29
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 100
+            [status] => paid
+        )
+
+)
+
+2024-11-29 18:49:42 Reading webhook: Array
+(
+    [id] => 674980551936e
+    [timestamp] => 2024-11-29 08:50:29
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 100
+            [status] => paid
+        )
+
+)
+
+2024-11-29 18:49:46 Reading webhook: Array
+(
+    [id] => 674980551936e
+    [timestamp] => 2024-11-29 08:50:29
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 100
+            [status] => paid
+        )
+
+)
+
+2024-11-29 18:50:02 Reading webhook: Array
+(
+    [id] => 674980551936e
+    [timestamp] => 2024-11-29 08:50:29
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 100
+            [status] => paid
+        )
+
+)
+
+2024-11-29 18:50:07 Reading webhook: Array
+(
+    [id] => 674980551936e
+    [timestamp] => 2024-11-29 08:50:29
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 100
+            [status] => paid
+        )
+
+)
+
+2024-11-29 18:50:12 Reading webhook: Array
+(
+    [id] => 674980551936e
+    [timestamp] => 2024-11-29 08:50:29
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 100
+            [status] => paid
+        )
+
+)
+
+2024-11-29 18:50:17 Reading webhook: Array
+(
+    [id] => 674980551936e
+    [timestamp] => 2024-11-29 08:50:29
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 100
+            [status] => paid
+        )
+
+)
+
+2024-11-29 18:50:22 Reading webhook: Array
+(
+    [id] => 674980551936e
+    [timestamp] => 2024-11-29 08:50:29
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 100
+            [status] => paid
+        )
+
+)
+
+2024-11-29 18:50:27 Reading webhook: Array
+(
+    [id] => 674980551936e
+    [timestamp] => 2024-11-29 08:50:29
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 100
+            [status] => paid
+        )
+
+)
+
+2024-11-29 18:50:32 Reading webhook: Array
+(
+    [id] => 674980551936e
+    [timestamp] => 2024-11-29 08:50:29
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 100
+            [status] => paid
+        )
+
+)
+
+2024-11-29 18:50:37 Reading webhook: Array
+(
+    [id] => 674980551936e
+    [timestamp] => 2024-11-29 08:50:29
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 100
+            [status] => paid
+        )
+
+)
+
+2024-11-29 18:50:42 Reading webhook: Array
+(
+    [id] => 674980551936e
+    [timestamp] => 2024-11-29 08:50:29
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 100
+            [status] => paid
+        )
+
+)
+
+2024-11-29 18:50:47 Reading webhook: Array
+(
+    [id] => 674980551936e
+    [timestamp] => 2024-11-29 08:50:29
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 100
+            [status] => paid
+        )
+
+)
+
+2024-11-29 18:50:52 Reading webhook: Array
+(
+    [id] => 674980551936e
+    [timestamp] => 2024-11-29 08:50:29
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 100
+            [status] => paid
+        )
+
+)
+
+2024-11-29 18:50:57 Reading webhook: Array
+(
+    [id] => 674980551936e
+    [timestamp] => 2024-11-29 08:50:29
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 100
+            [status] => paid
+        )
+
+)
+
+2024-11-29 18:51:02 Reading webhook: Array
+(
+    [id] => 674980551936e
+    [timestamp] => 2024-11-29 08:50:29
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 100
+            [status] => paid
+        )
+
+)
+
+2024-11-29 18:51:11 Received webhook: {"data":{"id":"evt_rvD2GErFcPbaEV7yhcteaefc","type":"event","attributes":{"type":"payment.paid","livemode":false,"data":{"id":"pay_NQKzaFEM5DNQuNioChtfj5tz","type":"payment","attributes":{"access_url":null,"amount":10000,"balance_transaction_id":"bal_txn_pNVMNe6A25poETwFAY7YPrJZ","billing":{"address":{"city":"Taguig","country":"PH","line1":"12th floor The Trade and Financial Tower u1206","line2":"32nd street and 7th Avenue","postal_code":"1630","state":"Bonifacio Global City"},"email":"abuyen69123@gmail.com","name":"Marionne","phone":"09123123123"},"currency":"PHP","description":"Payment for Transaction: B7F188","disputed":false,"external_reference_number":"wTPmNNn","fee":250,"instant_settlement":null,"livemode":false,"net_amount":9750,"origin":"links","payment_intent_id":null,"payout":null,"source":{"id":"src_BTxoT6WgG38WrQsh5FWcRdni","type":"gcash"},"statement_descriptor":"Franco-Pascual Dental Clinic","status":"paid","tax_amount":null,"metadata":{"pm_reference_number":"wTPmNNn"},"promotion":null,"refunds":[],"taxes":[],"available_at":1733302800,"created_at":1732906267,"credited_at":1733907600,"paid_at":1732906267,"updated_at":1732906267}},"previous_data":{},"created_at":1732906267,"updated_at":1732906267}}}
+2024-11-29 18:51:12 Reading webhook: Array
+(
+    [id] => 674a0d1f1655d
+    [timestamp] => 2024-11-29 18:51:11
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 100
+            [status] => paid
+        )
+
+)
+
+2024-11-29 23:35:50 Received webhook: {"data":{"id":"evt_maPb3Ep9edXx586zgoLy4ftg","type":"event","attributes":{"type":"payment.paid","livemode":false,"data":{"id":"pay_VW8HmP6zJ2aJaSm7Rs7bjQ78","type":"payment","attributes":{"access_url":null,"amount":240000,"balance_transaction_id":"bal_txn_DW9QxMhQKemJXCa7s8chJiJF","billing":{"address":{"city":"Taguig","country":"PH","line1":"12th floor The Trade and Financial Tower u1206","line2":"32nd street and 7th Avenue","postal_code":"1630","state":"Bonifacio Global City"},"email":"abuyen69123@gmail.com","name":"abuyen","phone":"8945957"},"currency":"PHP","description":"PAYMENT DETAILS\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\nService: \n                                                            Full and Partial Dentures\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\nPWD ID Number: 8643864\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n Original Amount:  PHP 3,000.00\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\nDiscount (20%):    PHP 600.00\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n Final Amount: PHP 2,400.00\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n Transaction Code: E80JL3","disputed":false,"external_reference_number":"JSLvL1e","fee":6000,"instant_settlement":null,"livemode":false,"net_amount":234000,"origin":"links","payment_intent_id":null,"payout":null,"source":{"id":"src_uDh29eYi8FnaRmAN8zQJCdjL","type":"gcash"},"statement_descriptor":"Franco-Pascual Dental Clinic","status":"paid","tax_amount":null,"metadata":{"pm_reference_number":"JSLvL1e"},"promotion":null,"refunds":[],"taxes":[],"available_at":1733302800,"created_at":1732923346,"credited_at":1733907600,"paid_at":1732923346,"updated_at":1732923346}},"previous_data":{},"created_at":1732923346,"updated_at":1732923346}}}
+2024-11-30 00:03:50 Reading webhook: Array
+(
+    [id] => 674a4fd67a963
+    [timestamp] => 2024-11-29 23:35:50
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 2400
+            [status] => paid
+        )
+
+)
+
+2024-11-30 00:05:24 Reading webhook: Array
+(
+    [id] => 674a4fd67a963
+    [timestamp] => 2024-11-29 23:35:50
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 2400
+            [status] => paid
+        )
+
+)
+
+2024-11-30 00:05:29 Reading webhook: Array
+(
+    [id] => 674a4fd67a963
+    [timestamp] => 2024-11-29 23:35:50
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 2400
+            [status] => paid
+        )
+
+)
+
+2024-11-30 00:05:34 Reading webhook: Array
+(
+    [id] => 674a4fd67a963
+    [timestamp] => 2024-11-29 23:35:50
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 2400
+            [status] => paid
+        )
+
+)
+
+2024-11-30 00:05:39 Reading webhook: Array
+(
+    [id] => 674a4fd67a963
+    [timestamp] => 2024-11-29 23:35:50
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 2400
+            [status] => paid
+        )
+
+)
+
+2024-11-30 00:05:44 Reading webhook: Array
+(
+    [id] => 674a4fd67a963
+    [timestamp] => 2024-11-29 23:35:50
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 2400
+            [status] => paid
+        )
+
+)
+
+2024-11-30 00:05:49 Reading webhook: Array
+(
+    [id] => 674a4fd67a963
+    [timestamp] => 2024-11-29 23:35:50
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 2400
+            [status] => paid
+        )
+
+)
+
+2024-11-30 00:05:55 Reading webhook: Array
+(
+    [id] => 674a4fd67a963
+    [timestamp] => 2024-11-29 23:35:50
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 2400
+            [status] => paid
+        )
+
+)
+
+2024-11-30 00:05:59 Reading webhook: Array
+(
+    [id] => 674a4fd67a963
+    [timestamp] => 2024-11-29 23:35:50
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 2400
+            [status] => paid
+        )
+
+)
+
+2024-11-30 00:06:04 Reading webhook: Array
+(
+    [id] => 674a4fd67a963
+    [timestamp] => 2024-11-29 23:35:50
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 2400
+            [status] => paid
+        )
+
+)
+
+2024-11-30 00:06:09 Reading webhook: Array
+(
+    [id] => 674a4fd67a963
+    [timestamp] => 2024-11-29 23:35:50
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 2400
+            [status] => paid
+        )
+
+)
+
+2024-11-30 00:06:14 Reading webhook: Array
+(
+    [id] => 674a4fd67a963
+    [timestamp] => 2024-11-29 23:35:50
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 2400
+            [status] => paid
+        )
+
+)
+
+2024-11-30 00:06:19 Reading webhook: Array
+(
+    [id] => 674a4fd67a963
+    [timestamp] => 2024-11-29 23:35:50
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 2400
+            [status] => paid
+        )
+
+)
+
+2024-11-30 00:06:24 Reading webhook: Array
+(
+    [id] => 674a4fd67a963
+    [timestamp] => 2024-11-29 23:35:50
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 2400
+            [status] => paid
+        )
+
+)
+
+2024-11-30 00:06:29 Reading webhook: Array
+(
+    [id] => 674a4fd67a963
+    [timestamp] => 2024-11-29 23:35:50
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 2400
+            [status] => paid
+        )
+
+)
+
+2024-11-30 00:06:34 Reading webhook: Array
+(
+    [id] => 674a4fd67a963
+    [timestamp] => 2024-11-29 23:35:50
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 2400
+            [status] => paid
+        )
+
+)
+
+2024-11-30 00:06:39 Reading webhook: Array
+(
+    [id] => 674a4fd67a963
+    [timestamp] => 2024-11-29 23:35:50
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 2400
+            [status] => paid
+        )
+
+)
+
+2024-11-30 00:06:44 Reading webhook: Array
+(
+    [id] => 674a4fd67a963
+    [timestamp] => 2024-11-29 23:35:50
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 2400
+            [status] => paid
+        )
+
+)
+
+2024-11-30 00:06:49 Reading webhook: Array
+(
+    [id] => 674a4fd67a963
+    [timestamp] => 2024-11-29 23:35:50
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 2400
+            [status] => paid
+        )
+
+)
+
+2024-11-30 00:06:54 Reading webhook: Array
+(
+    [id] => 674a4fd67a963
+    [timestamp] => 2024-11-29 23:35:50
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 2400
+            [status] => paid
+        )
+
+)
+
+2024-11-30 00:06:59 Reading webhook: Array
+(
+    [id] => 674a4fd67a963
+    [timestamp] => 2024-11-29 23:35:50
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 2400
+            [status] => paid
+        )
+
+)
+
+2024-11-30 00:07:11 Received webhook: {"data":{"id":"evt_pjJKPpEowbhtJJ9iaJGu5TQ7","type":"event","attributes":{"type":"payment.paid","livemode":false,"data":{"id":"pay_bWqgXCZMdZFH7KRHuG8gEAxS","type":"payment","attributes":{"access_url":null,"amount":10000,"balance_transaction_id":"bal_txn_FcFTZWAnTBqDjSN37UoVR6GU","billing":{"address":{"city":"Taguig","country":"PH","line1":"12th floor The Trade and Financial Tower u1206","line2":"32nd street and 7th Avenue","postal_code":"1630","state":"Bonifacio Global City"},"email":"abuyen69123@gmail.com","name":"Marionne C Abuyen","phone":"09291955185"},"currency":"PHP","description":"Payment for Transaction: BQJ2G6","disputed":false,"external_reference_number":"B3u9v6x","fee":250,"instant_settlement":null,"livemode":false,"net_amount":9750,"origin":"links","payment_intent_id":null,"payout":null,"source":{"id":"src_Fpp92GQcA3eZHhTm8ZUMU186","type":"gcash"},"statement_descriptor":"Franco-Pascual Dental Clinic","status":"paid","tax_amount":null,"metadata":{"pm_reference_number":"B3u9v6x"},"promotion":null,"refunds":[],"taxes":[],"available_at":1733302800,"created_at":1732925227,"credited_at":1733907600,"paid_at":1732925227,"updated_at":1732925227}},"previous_data":{},"created_at":1732925227,"updated_at":1732925227}}}
+2024-11-30 00:07:11 Reading webhook: Array
+(
+    [id] => 674a572f215d0
+    [timestamp] => 2024-11-30 00:07:11
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 100
+            [status] => paid
+        )
+
+)
+
+2024-11-30 00:59:46 Reading webhook: Array
+(
+    [id] => 674a572f215d0
+    [timestamp] => 2024-11-30 00:07:11
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 100
+            [status] => paid
+        )
+
+)
+
+2024-11-30 01:00:53 Reading webhook: Array
+(
+    [id] => 674a572f215d0
+    [timestamp] => 2024-11-30 00:07:11
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 100
+            [status] => paid
+        )
+
+)
+
+2024-11-30 01:00:58 Reading webhook: Array
+(
+    [id] => 674a572f215d0
+    [timestamp] => 2024-11-30 00:07:11
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 100
+            [status] => paid
+        )
+
+)
+
+2024-11-30 01:01:04 Reading webhook: Array
+(
+    [id] => 674a572f215d0
+    [timestamp] => 2024-11-30 00:07:11
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 100
+            [status] => paid
+        )
+
+)
+
+2024-11-30 01:01:08 Reading webhook: Array
+(
+    [id] => 674a572f215d0
+    [timestamp] => 2024-11-30 00:07:11
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 100
+            [status] => paid
+        )
+
+)
+
+2024-11-30 01:01:13 Reading webhook: Array
+(
+    [id] => 674a572f215d0
+    [timestamp] => 2024-11-30 00:07:11
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 100
+            [status] => paid
+        )
+
+)
+
+2024-11-30 01:01:18 Reading webhook: Array
+(
+    [id] => 674a572f215d0
+    [timestamp] => 2024-11-30 00:07:11
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 100
+            [status] => paid
+        )
+
+)
+
+2024-11-30 01:01:22 Received webhook: {"data":{"id":"evt_9k4mpXh2JC15Ao7WBNDPGEoD","type":"event","attributes":{"type":"payment.paid","livemode":false,"data":{"id":"pay_fTyJqyKwKeWhEe6Etp3XiCGE","type":"payment","attributes":{"access_url":null,"amount":10000,"balance_transaction_id":"bal_txn_fKAaJAvLCJFKiamDrNNDEKCL","billing":{"address":{"city":"Taguig","country":"PH","line1":"12th floor The Trade and Financial Tower u1206","line2":"32nd street and 7th Avenue","postal_code":"1630","state":"Bonifacio Global City"},"email":"jamesdiamla27@gmail.com","name":"James Roland Diamla","phone":"12312312123"},"currency":"PHP","description":"Payment for Transaction: 88KCDB","disputed":false,"external_reference_number":"ZaGQtoU","fee":250,"instant_settlement":null,"livemode":false,"net_amount":9750,"origin":"links","payment_intent_id":null,"payout":null,"source":{"id":"src_Mc7ZNyWdn46tSo5jzk22mPby","type":"gcash"},"statement_descriptor":"Franco-Pascual Dental Clinic","status":"paid","tax_amount":null,"metadata":{"pm_reference_number":"ZaGQtoU"},"promotion":null,"refunds":[],"taxes":[],"available_at":1733302800,"created_at":1732928478,"credited_at":1733907600,"paid_at":1732928478,"updated_at":1732928478}},"previous_data":{},"created_at":1732928478,"updated_at":1732928478}}}
+2024-11-30 01:01:23 Reading webhook: Array
+(
+    [id] => 674a63e26a312
+    [timestamp] => 2024-11-30 01:01:22
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 100
+            [status] => paid
+        )
+
+)
+
+2024-11-30 03:36:22 Reading webhook: Array
+(
+    [id] => 674a63e26a312
+    [timestamp] => 2024-11-30 01:01:22
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 100
+            [status] => paid
+        )
+
+)
+
+2024-11-30 03:36:59 Reading webhook: Array
+(
+    [id] => 674a63e26a312
+    [timestamp] => 2024-11-30 01:01:22
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 100
+            [status] => paid
+        )
+
+)
+
+2024-11-30 03:37:04 Reading webhook: Array
+(
+    [id] => 674a63e26a312
+    [timestamp] => 2024-11-30 01:01:22
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 100
+            [status] => paid
+        )
+
+)
+
+2024-11-30 05:19:41 Reading webhook: Array
+(
+    [id] => 674a63e26a312
+    [timestamp] => 2024-11-30 01:01:22
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 100
+            [status] => paid
+        )
+
+)
+
+2024-11-30 05:29:56 Received webhook: {"data":{"id":"evt_HhpFin1ZY2Moo9rCAi5htGXi","type":"event","attributes":{"type":"payment.paid","livemode":false,"data":{"id":"pay_Cnq6KBXBTkRA2FQVK2m39tEk","type":"payment","attributes":{"access_url":null,"amount":10000,"balance_transaction_id":"bal_txn_8aoSdhop9RbyoMsJA7GMdhCU","billing":{"address":{"city":"Taguig","country":"PH","line1":"12th floor The Trade and Financial Tower u1206","line2":"32nd street and 7th Avenue","postal_code":"1630","state":"Bonifacio Global City"},"email":"rnrbato@gmail.com","name":"Reinier Ceazar","phone":"09123456789"},"currency":"PHP","description":"Payment for Transaction: GIC1KI","disputed":false,"external_reference_number":"bLXL85z","fee":250,"instant_settlement":null,"livemode":false,"net_amount":9750,"origin":"links","payment_intent_id":null,"payout":null,"source":{"id":"src_KuRq2zLyC9KdAyWbMkxrpTUK","type":"gcash"},"statement_descriptor":"Franco-Pascual Dental Clinic","status":"paid","tax_amount":null,"metadata":{"pm_reference_number":"bLXL85z"},"promotion":null,"refunds":[],"taxes":[],"available_at":1733302800,"created_at":1732944595,"credited_at":1733907600,"paid_at":1732944595,"updated_at":1732944595}},"previous_data":{},"created_at":1732944595,"updated_at":1732944595}}}
+2024-11-30 06:54:00 Reading webhook: Array
+(
+    [id] => 674aa2d4c4e8c
+    [timestamp] => 2024-11-30 05:29:56
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 100
+            [status] => paid
+        )
+
+)
+
+2024-12-02 07:34:40 Reading webhook: Array
+(
+    [id] => 674aa2d4c4e8c
+    [timestamp] => 2024-11-30 05:29:56
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 100
+            [status] => paid
+        )
+
+)
+
+2024-12-02 07:35:37 Received webhook: {"data":{"id":"evt_sLfJo3r25JBrZbZpNC3dGeyY","type":"event","attributes":{"type":"payment.paid","livemode":false,"data":{"id":"pay_q8Up9vHgG2gcJtQYsJyi2pdW","type":"payment","attributes":{"access_url":null,"amount":10000,"balance_transaction_id":"bal_txn_iic7LNBBsjbPJ8WDs2ChonuZ","billing":{"address":{"city":"Taguig","country":"PH","line1":"12th floor The Trade and Financial Tower u1206","line2":"32nd street and 7th Avenue","postal_code":"1630","state":"Bonifacio Global City"},"email":"glennsicat12@gmail.com","name":"Glenn Sicat","phone":""},"currency":"PHP","description":"Payment for Transaction: K5EP5X","disputed":false,"external_reference_number":"6dsfPys","fee":250,"instant_settlement":null,"livemode":false,"net_amount":9750,"origin":"links","payment_intent_id":null,"payout":null,"source":{"id":"src_tsxiQhzXhBksyWfEZL3DbsRy","type":"gcash"},"statement_descriptor":"Franco-Pascual Dental Clinic","status":"paid","tax_amount":null,"metadata":{"pm_reference_number":"6dsfPys"},"promotion":null,"refunds":[],"taxes":[],"available_at":1733302800,"created_at":1733124935,"credited_at":1733907600,"paid_at":1733124935,"updated_at":1733124935}},"previous_data":{},"created_at":1733124935,"updated_at":1733124935}}}
+2024-12-04 13:48:00 Reading webhook: Array
+(
+    [id] => 674d6349dd77a
+    [timestamp] => 2024-12-02 07:35:37
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 100
+            [status] => paid
+        )
+
+)
+
+2024-12-04 13:48:32 Received webhook: {"data":{"id":"evt_zu5TVyU2M8gtm5VXHGBddFg5","type":"event","attributes":{"type":"payment.paid","livemode":false,"data":{"id":"pay_zZqoJ2d2Xdrd1gyees3k98xQ","type":"payment","attributes":{"access_url":null,"amount":10000,"balance_transaction_id":"bal_txn_k348YNYvDMqcKtMF3SS1fZfM","billing":{"address":{"city":"Taguig","country":"PH","line1":"12th floor The Trade and Financial Tower u1206","line2":"32nd street and 7th Avenue","postal_code":"1630","state":"Bonifacio Global City"},"email":"abuyen000@gmail.com","name":"Marionne","phone":"09876543210"},"currency":"PHP","description":"Payment for Transaction: OCAKAH","disputed":false,"external_reference_number":"Zi3GfSo","fee":250,"instant_settlement":null,"livemode":false,"net_amount":9750,"origin":"links","payment_intent_id":null,"payout":null,"source":{"id":"src_3D7M9tEqx8dmWzwntyVdWJju","type":"gcash"},"statement_descriptor":"Franco-Pascual Dental Clinic","status":"paid","tax_amount":null,"metadata":{"pm_reference_number":"Zi3GfSo"},"promotion":null,"refunds":[],"taxes":[],"available_at":1733734800,"created_at":1733320111,"credited_at":1733907600,"paid_at":1733320111,"updated_at":1733320111}},"previous_data":{},"created_at":1733320111,"updated_at":1733320111}}}
+2024-12-05 07:39:11 Reading webhook: Array
+(
+    [id] => 67505db0aecf7
+    [timestamp] => 2024-12-04 13:48:32
+    [data] => Array
+        (
+            [transaction_code] => 
+            [amount] => 100
+            [status] => paid
+        )
+
+)
+
+2024-12-05 07:39:49 Received webhook: {"data":{"id":"evt_Z7crjsowN5ywaupXMdQ6ZAjv","type":"event","attributes":{"type":"payment.paid","livemode":false,"data":{"id":"pay_jrWGz2e2B24HsyArSsoHdcUU","type":"payment","attributes":{"access_url":null,"amount":10000,"balance_transaction_id":"bal_txn_Txcj9VS5zBz75ehCVfSAGfYc","billing":{"address":{"city":"Taguig","country":"PH","line1":"12th floor The Trade and Financial Tower u1206","line2":"32nd street and 7th Avenue","postal_code":"1630","state":"Bonifacio Global City"},"email":"klainche@gmail.com","name":"Niel","phone":"09876543210"},"currency":"PHP","description":"Payment for Transaction: OMCP2O","disputed":false,"external_reference_number":"GAjiCac","fee":250,"instant_settlement":null,"livemode":false,"net_amount":9750,"origin":"links","payment_intent_id":null,"payout":null,"source":{"id":"src_ihmG4iGWAKr1bf7RmSxpBqL7","type":"gcash"},"statement_descriptor":"Franco-Pascual Dental Clinic","status":"paid","tax_amount":null,"metadata":{"pm_reference_number":"GAjiCac"},"promotion":null,"refunds":[],"taxes":[],"available_at":1733734800,"created_at":1733384388,"credited_at":1733907600,"paid_at":1733384388,"updated_at":1733384388}},"previous_data":{},"created_at":1733384388,"updated_at":1733384388}}}
